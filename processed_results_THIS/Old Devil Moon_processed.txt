@@ -1,0 +1,10 @@
+Section: None
+[['F6'], ['Eb6'], ['F6'], ['Eb6'], ['F6'], ['Eb6'], ['F7sus'], ['F7'], ['Bbmaj7'], ['Bbmaj7'], ['Bbm7'], ['Eb7'], ['Abm7', 'Db7'], ['Gbmaj7', 'C7'], ['F6'], ['Eb6']]
+Roman Numerals:
+ I  ♭VII  I  ♭VII  I  ♭VII  I  I7  IVM7  IVM7  iv7  ♭VII7  ♭iii7  ♭VI7  ♭IIM7  V7  I  ♭VII
+Is it Diatonic?
+ I  ♭VII, !D  I  ♭VII, !D  I  ♭VII, !D  I, !D  I7  IVM7  IVM7  iv7, !D  ♭VII7, !D  ♭iii7, !D  ♭VI7, !D  ♭IIM7, !D  V7  I  ♭VII, !D
+Is it Borrowed?
+ I  VII, minor  I  VII, minor  I  VII, minor  I  I7  IVM7  IVM7  iv7, minor  VII7, minor  iii7, locrian  VI7, minor  IIM7, phrygian  V7  I  VII, minor
+Check if it has secondary dominants:
+ I  ♭VII  I  ♭VII  I  ♭VII  I  I7 (V7/IV)  IVM7  IVM7  iv7  ♭VII7 (V7/♭iii)  ♭iii7  ♭VI7 (V7/♭II)  ♭IIM7  V7  I  ♭VII

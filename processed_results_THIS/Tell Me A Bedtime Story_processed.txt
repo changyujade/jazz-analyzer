@@ -1,0 +1,60 @@
+Section: i
+[['Gmaj7'], ['Gmaj7'], ['F#m7'], ['F#m7'], ['Gmaj7'], ['Gmaj7'], ['F#m7'], ['F#m7']]
+Roman Numerals:
+ VM7  VM7  ♯iv7  ♯iv7  VM7  VM7  ♯iv7  ♯iv7
+Is it Diatonic?
+ VM7  VM7  ♯iv7, !D  ♯iv7, !D  VM7  VM7  ♯iv7, !D  ♯iv7, !D
+Is it Borrowed?
+ VM7  VM7  ♯iv7  ♯iv7  VM7  VM7  ♯iv7  ♯iv7
+Check if it has secondary dominants:
+ VM7  VM7  ♯iv7  ♯iv7  VM7  VM7  ♯iv7  ♯iv7
+Section: A
+[['Gmaj7#11'], ['Gmaj7#11'], ['F#m7'], ['F#m7'], ['Em7'], ['A7'], ['Dmaj7'], ['Cmaj7#11'], ['Bmaj7', 'Gmaj7'], ['Emaj7', 'Cmaj7#11'], ['Bmaj7', 'Gmaj7'], ['Emaj7', 'Cmaj7#11']]
+Roman Numerals:
+ VM7  VM7  ♯iv7  ♯iv7  iii7  VI7  IIM7  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Is it Diatonic?
+ VM7  VM7  ♯iv7, !D  ♯iv7, !D  iii7  VI7, !D  IIM7, !D  IM7  VIIM7, !D  VM7  IIIM7, !D  IM7  VIIM7, !D  VM7  IIIM7, !D  IM7
+Is it Borrowed?
+ VM7  VM7  ♯iv7  ♯iv7  iii7  VI7  IIM7, lydian  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Check if it has secondary dominants:
+ VM7  VM7  ♯iv7  ♯iv7  iii7  VI7 (V7/II)  IIM7  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Section: B
+[['B7sus'], ['B7#5'], ['Emaj7', 'E7#9'], ['Eb7#9'], ['Dmaj7'], ['Db7#9'], ['Cmaj7#11'], ['Cmaj7#11'], ['Bmaj7', 'Gmaj7'], ['Emaj7', 'Cmaj7#11'], ['Bmaj7', 'Gmaj7'], ['Emaj7', 'Cmaj7#11']]
+Roman Numerals:
+ VII  VII+7  IIIM7  III7  ♭III7  IIM7  ♭II7  IM7  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Is it Diatonic?
+ VII, !D  VII+7, !D  IIIM7, !D  III7, !D  ♭III7, !D  IIM7, !D  ♭II7, !D  IM7  IM7  VIIM7, !D  VM7  IIIM7, !D  IM7  VIIM7, !D  VM7  IIIM7, !D  IM7
+Is it Borrowed?
+ VII  VII+7  IIIM7  III7  III7, minor  IIM7, lydian  II7, phrygian  IM7  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Check if it has secondary dominants:
+ VII  VII+7  IIIM7  III7  ♭III7  IIM7  ♭II7  IM7  IM7  VIIM7  VM7  IIIM7  IM7  VIIM7  VM7  IIIM7  IM7
+Section: C
+[['B7sus'], ['A7sus'], ['Abm7'], ['Em7']]
+Roman Numerals:
+ VII  VI  ♭vi7  iii7
+Is it Diatonic?
+ VII, !D  VI, !D  ♭vi7, !D  iii7
+Is it Borrowed?
+ VII  VI  ♭vi7  iii7
+Check if it has secondary dominants:
+ VII  VI  ♭vi7  iii7
+Section: D
+[['Dbm7'], ['Ebm7'], ['Em7'], ['F#m7']]
+Roman Numerals:
+ ♭ii7  ♭iii7  iii7  ♯iv7
+Is it Diatonic?
+ ♭ii7, !D  ♭iii7, !D  iii7  ♯iv7, !D
+Is it Borrowed?
+ ♭ii7  iii7, locrian  iii7  ♯iv7
+Check if it has secondary dominants:
+ ♭ii7  ♭iii7  iii7  ♯iv7
+Section: None
+[['Bmaj7', 'Gmaj7'], ['Emaj7', 'Cmaj7#11']]
+Roman Numerals:
+ VIIM7  VM7  IIIM7  IM7
+Is it Diatonic?
+ VIIM7, !D  VM7  IIIM7, !D  IM7
+Is it Borrowed?
+ VIIM7  VM7  IIIM7  IM7
+Check if it has secondary dominants:
+ VIIM7  VM7  IIIM7  IM7

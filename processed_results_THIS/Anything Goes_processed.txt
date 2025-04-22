@@ -1,0 +1,40 @@
+Section: v
+[['Cm'], ['Ab'], ['Cm'], ['Cm'], ['Db'], ['Db'], ['G7'], ['G7'], ['C7'], ['C7'], ['C7'], ['Fm'], ['G7'], ['Cm'], ['G', 'D7'], ['G7']]
+Roman Numerals:
+ i  ♭VI  i  i  ♭II  ♭II  V7  V7  I7  I7  I7  iv  V7  i  V  II7  V7
+Is it Diatonic?
+ i, !D  ♭VI, !D  i, !D  i, !D  ♭II, !D  ♭II, !D  V7  V7  I7  I7  I7  iv, !D  V7  i, !D  V  II7, !D  V7
+Is it Borrowed?
+ i, minor  VI, minor  i, minor  i, minor  II, phrygian  II, phrygian  V7  V7  I7  I7  I7  iv, minor  V7  i, minor  V  II7, lydian  V7
+Check if it has secondary dominants:
+ i  ♭VI  i  i  ♭II  ♭II  V7  V7  I7  I7  I7 (V7/iv)  iv  V7  i  V  II7 (V7/V)  V7
+Section: A
+[['C6(Cmaj7)', '(Dm7)'], ['C6(Em7)', '(Dm7)'], ['C6(Cmaj7)', '(Dm7)'], ['C7(Gm7)', '(C9)'], ['F6'], ['Bb9(Dm7)', '(G9sus)']]
+Roman Numerals:
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  ♭VII9  V
+Is it Diatonic?
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  ♭VII9, !D  V, !D
+Is it Borrowed?
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  VII9, minor  V
+Check if it has secondary dominants:
+ I  ii7  I  ii7  I  ii7  I7  I9 (V9/IV)  IV (V/♭VII)  ♭VII9  V
+Section: B
+[['Emaj7', 'C#7b9'], ['F#m7', 'B7'], ['E7(Cmaj9)'], ['B7'], ['Em7'], ['A9(Em7/D)'], ['Dm9(C#m7b5)'], ['G7(Dm7)', '(G7)']]
+Roman Numerals:
+ IIIM7  ♯I7  ♯iv7  VII7  III7  VII7  iii7  VI9  ii9  V7  V7
+Is it Diatonic?
+ IIIM7, !D  ♯I7, !D  ♯iv7, !D  VII7, !D  III7, !D  VII7, !D  iii7  VI9, !D  ii9  V7  V7
+Is it Borrowed?
+ IIIM7  ♯I7  ♯iv7  VII7  III7  VII7  iii7  VI9  ii9  V7  V7
+Check if it has secondary dominants:
+ IIIM7  ♯I7 (V7/♯iv)  ♯iv7  VII7 (V7/III)  III7  VII7 (V7/iii)  iii7  VI9 (V9/ii)  ii9  V7  V7
+Section: C
+[['C6(Cmaj7)', '(Dm7)'], ['C6(Em7)', '(Dm7)'], ['C6(Cmaj7)', '(Dm7)'], ['C7(Gm7)', '(C9)'], ['F6', 'Em7'], ['Dm7(Bb9)', 'G9sus'], ['C6', 'Am7'], ['Dm7', 'G7']]
+Roman Numerals:
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  iii7  ii7  V  I  vi7  ii7  V7
+Is it Diatonic?
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  iii7  ii7  V, !D  I  vi7  ii7  V7
+Is it Borrowed?
+ I  ii7  I  ii7  I  ii7  I7  I9  IV  iii7  ii7  V  I  vi7  ii7  V7
+Check if it has secondary dominants:
+ I  ii7  I  ii7  I  ii7  I7  I9 (V9/IV)  IV  iii7  ii7  V  I  vi7  ii7  V7

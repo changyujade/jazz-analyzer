@@ -1,0 +1,20 @@
+Section: A
+[['Gm7'], ['Am7b5', 'D7b9'], ['Gm7'], ['Am7b5', 'D7b9'], ['Gm7'], ['Am7b5', 'D7b9'], ['Gm7'], ['Gm7']]
+Roman Numerals:
+ i7  iiø7  V7  i7  iiø7  V7  i7  iiø7  V7  i7  i7
+Is it Diatonic?
+ i7  iiø7  V7, !D  i7  iiø7  V7, !D  i7  iiø7  V7, !D  i7  i7
+Is it Borrowed?
+ i7  iiø7  V7, major  i7  iiø7  V7, major  i7  iiø7  V7, major  i7  i7
+Check if it has secondary dominants:
+ i7  iiø7  V7  i7  iiø7  V7  i7  iiø7  V7  i7  i7
+Section: B
+[['C7sus'], ['C7sus'], ['C7sus'], ['C7sus'], ['C7sus'], ['C7sus'], ['C7sus'], ['Am7b5', 'D7b9']]
+Roman Numerals:
+ IV  IV  IV  IV  IV  IV  IV  iiø7  V7
+Is it Diatonic?
+ IV, !D  IV, !D  IV, !D  IV, !D  IV, !D  IV, !D  IV, !D  iiø7  V7, !D
+Is it Borrowed?
+ IV  IV  IV  IV  IV  IV  IV  iiø7  V7, major
+Check if it has secondary dominants:
+ IV  IV  IV  IV  IV  IV  IV  iiø7  V7

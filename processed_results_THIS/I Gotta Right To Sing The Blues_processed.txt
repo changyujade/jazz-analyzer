@@ -1,0 +1,20 @@
+Section: A
+[['Gm7', 'C7'], ['Gm7', 'C7'], ['Cm7', 'F7#5'], ['F7#5'], ['Fm7', 'Bb7'], ['Fm7', 'Bb7'], ['Dm7b5(Ebm7)', '(Ab7)'], ['G7(Dm7)', '(G7)'], ['Gm7', 'C7'], ['Gm7', 'C7'], ['Cm7', 'F7'], ['Cm7', 'F7'], ['Bb6', 'Cm7(Ebm6/Bb)'], ['Db07(Bb07)', 'Bb6/D(Bb6)'], ['Eb6(Cm7/Bb)', 'E07(Bb07)'], ['Bb6/F(Bb6)', 'G7(Ab7)']]
+Roman Numerals:
+ vi7  II7  vi7  II7  ii7  V+7  V+7  v7  I7  v7  I7  iiiø7  ♭VII7  VI7  VI7  vi7  II7  vi7  II7  ii7  V7  ii7  V7  I  ii7  ♭iiiø7  I6  IV  ♯ivø7  I64  VI7
+Is it Diatonic?
+ vi7  II7, !D  vi7  II7, !D  ii7  V+7, !D  V+7, !D  v7, !D  I7  v7, !D  I7  iiiø7, !D  ♭VII7, !D  VI7, !D  VI7, !D  vi7  II7, !D  vi7  II7, !D  ii7  V7  ii7  V7  I  ii7  ♭iiiø7, !D  I6  IV  ♯ivø7, !D  I64  VI7, !D
+Is it Borrowed?
+ vi7  II7, lydian  vi7  II7, lydian  ii7  V+7  V+7  v7, minor  I7  v7, minor  I7  iiiø7, mixolydian  VII7, minor  VI7  VI7  vi7  II7, lydian  vi7  II7, lydian  ii7  V7  ii7  V7  I  ii7  ♭iiiø7  I6  IV  ivø7, lydian  I64  VI7
+Check if it has secondary dominants:
+ vi7  II7  vi7  II7  ii7  V+7  V+7  v7  I7  v7  I7  iiiø7  ♭VII7  VI7  VI7  vi7  II7  vi7  II7  ii7  V7  ii7  V7  I  ii7  ♭iiiø7  I6 (V6/IV)  IV  ♯ivø7  I64  VI7
+Section: B
+[['Gm7', 'C7'], ['Gm7', 'C7'], ['Cm7', 'F7#5'], ['F7#5'], ['Fm7', 'Bb7'], ['Fm7', 'Bb7'], ['Dm7b5(Ebm7)', '(Ab7)'], ['G7(Dm7)', '(G7)'], ['Gm7', 'C7'], ['Gm7', 'C7'], ['Ab7(Ebm6)'], ['Ab7(Ebm6)'], ['Gm7', 'C7'], ['Cm7', 'F7b9'], ['Bb6'], ['Dm7', 'G7']]
+Roman Numerals:
+ vi7  II7  vi7  II7  ii7  V+7  V+7  v7  I7  v7  I7  iiiø7  ♭VII7  VI7  VI7  vi7  II7  vi7  II7  ♭VII7  ♭VII7  vi7  II7  ii7  V7  I  iii7  VI7
+Is it Diatonic?
+ vi7  II7, !D  vi7  II7, !D  ii7  V+7, !D  V+7, !D  v7, !D  I7  v7, !D  I7  iiiø7, !D  ♭VII7, !D  VI7, !D  VI7, !D  vi7  II7, !D  vi7  II7, !D  ♭VII7, !D  ♭VII7, !D  vi7  II7, !D  ii7  V7  I  iii7  VI7, !D
+Is it Borrowed?
+ vi7  II7, lydian  vi7  II7, lydian  ii7  V+7  V+7  v7, minor  I7  v7, minor  I7  iiiø7, mixolydian  VII7, minor  VI7  VI7  vi7  II7, lydian  vi7  II7, lydian  VII7, minor  VII7, minor  vi7  II7, lydian  ii7  V7  I  iii7  VI7
+Check if it has secondary dominants:
+ vi7  II7  vi7  II7  ii7  V+7  V+7  v7  I7  v7  I7  iiiø7  ♭VII7  VI7  VI7  vi7  II7  vi7  II7  ♭VII7  ♭VII7  vi7  II7  ii7  V7  I  iii7  VI7

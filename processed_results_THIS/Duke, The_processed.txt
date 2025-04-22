@@ -1,0 +1,20 @@
+Section: A
+[['Cmaj7', 'Fmaj7'], ['Em7/G', 'Am7', 'B7', 'B7'], ['Em7', 'Am7'], ['Dm7', 'Dm7', 'Fm7', 'Bb7'], ['Ebmaj7', 'Dbmaj7'], ['Cm7', 'Bm7'], ['Bbm7', 'Eb7', 'Abmaj7', 'Abmaj7'], ['D7', 'Db7', 'Cmaj7', 'Cmaj7']]
+Roman Numerals:
+ IM7  IVM7  iii65  vi7  VII7  VII7  iii7  vi7  ii7  ii7  iv7  ♭VII7  ♭IIIM7  ♭IIM7  i7  vii7  ♭vii7  ♭III7  ♭VIM7  ♭VIM7  II7  ♭II7  IM7  IM7
+Is it Diatonic?
+ IM7  IVM7  iii65  vi7  VII7, !D  VII7, !D  iii7  vi7  ii7  ii7  iv7, !D  ♭VII7, !D  ♭IIIM7, !D  ♭IIM7, !D  i7, !D  vii7, !D  ♭vii7, !D  ♭III7, !D  ♭VIM7, !D  ♭VIM7, !D  II7, !D  ♭II7, !D  IM7  IM7
+Is it Borrowed?
+ IM7  IVM7  iii65  vi7  VII7  VII7  iii7  vi7  ii7  ii7  iv7, minor  VII7, minor  IIIM7, minor  IIM7, phrygian  i7, minor  vii7, lydian  vii7, phrygian  III7, minor  VIM7, minor  VIM7, minor  II7, lydian  II7, phrygian  IM7  IM7
+Check if it has secondary dominants:
+ IM7 (VM7/IV)  IVM7  iii65  vi7  VII7  VII7 (V7/iii)  iii7  vi7  ii7  ii7  iv7  ♭VII7 (V7/♭III)  ♭IIIM7  ♭IIM7  i7  vii7  ♭vii7  ♭III7 (V7/♭VI)  ♭VIM7  ♭VIM7  II7  ♭II7  IM7  IM7
+Section: B
+[['Fmaj7', 'E7'], ['D7', 'Cmaj7'], ['Bbm7', 'Abmaj7'], ['G7b9', 'Fm7'], ['Dm7b5', 'G7', 'Cm7', 'Cm7'], ['Cm7b5', 'F7', 'Bbm7', 'Bbm7'], ['Ab/C', 'Bbm7', 'Ab6', 'Gm7b5'], ['Fm7', 'Ebsus', 'Db7#11', 'Db7#11']]
+Roman Numerals:
+ IVM7  III7  II7  IM7  ♭vii7  ♭VIM7  V7  iv7  iiø7  V7  i7  i7  iø7  IV7  ♭vii7  ♭vii7  ♭VI6  ♭vii7  ♭VI  vø7  iv7  ♭III  ♭II7  ♭II7
+Is it Diatonic?
+ IVM7  III7, !D  II7, !D  IM7  ♭vii7, !D  ♭VIM7, !D  V7  iv7, !D  iiø7, !D  V7  i7, !D  i7, !D  iø7, !D  IV7  ♭vii7, !D  ♭vii7, !D  ♭VI6, !D  ♭vii7, !D  ♭VI, !D  vø7, !D  iv7, !D  ♭III, !D  ♭II7, !D  ♭II7, !D
+Is it Borrowed?
+ IVM7  III7  II7, lydian  IM7  vii7, phrygian  VIM7, minor  V7  iv7, minor  iiø7, minor  V7  i7, minor  i7, minor  iø7, locrian  IV7  vii7, phrygian  vii7, phrygian  VI6, minor  vii7, phrygian  VI, minor  vø7, phrygian  iv7, minor  ♭III  II7, phrygian  II7, phrygian
+Check if it has secondary dominants:
+ IVM7  III7  II7  IM7  ♭vii7  ♭VIM7  V7  iv7  iiø7  V7  i7  i7  iø7  IV7 (V7/♭vii)  ♭vii7  ♭vii7  ♭VI6  ♭vii7  ♭VI  vø7  iv7  ♭III  ♭II7  ♭II7

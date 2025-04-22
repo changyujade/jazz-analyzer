@@ -1,0 +1,10 @@
+Section: A
+[['C69'], ['Caug'], ['F#aug/C'], ['Bbmaj7/C'], ['Fm7/C'], ['Fm7/C'], ['Cm9'], ['Cm9'], ['Fm/maj7/C'], ['Cm11'], ['Fm7/C'], ['Bbmaj7#5/C'], ['Fm/maj7/C'], ['Bbmaj7/C'], ['Fm7/C'], ['Db/C']]
+Roman Numerals:
+ I  I+7  ♯IV+7  ♭VIIM7  iv43  iv43  i9  i9  iv  i11  iv43  ♭VIIM+7  iv  ♭VIIM7  iv43  ♭II
+Is it Diatonic?
+ I  I+7, !D  ♯IV+7, !D  ♭VIIM7, !D  iv43, !D  iv43, !D  i9, !D  i9, !D  iv, !D  i11, !D  iv43, !D  ♭VIIM+7, !D  iv, !D  ♭VIIM7, !D  iv43, !D  ♭II, !D
+Is it Borrowed?
+ I  I+7  ♯IV+7  VIIM7, minor  iv43, minor  iv43, minor  i9, minor  i9, minor  iv, minor  i11, minor  iv43, minor  ♭VIIM+7  iv, minor  VIIM7, minor  iv43, minor  II, phrygian
+Check if it has secondary dominants:
+ I  I+7  ♯IV+7  ♭VIIM7  iv43  iv43  i9  i9  iv  i11  iv43  ♭VIIM+7  iv  ♭VIIM7  iv43  ♭II

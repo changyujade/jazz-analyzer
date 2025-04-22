@@ -1,0 +1,10 @@
+Section: None
+[['Gm6'], ['A7#9'], ['Dm6'], ['Dm6']]
+Roman Numerals:
+ iv  V7  i  i
+Is it Diatonic?
+ iv  V7, !D  i  i
+Is it Borrowed?
+ iv  V7, major  i  i
+Check if it has secondary dominants:
+ iv  V7  i  i

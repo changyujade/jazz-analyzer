@@ -1,0 +1,10 @@
+Section: None
+[['Fm/maj7'], ['Fm6'], ['Gm9'], ['C13'], ['Fm/maj7'], ['Fm6'], ['Cm9'], ['F13'], ['Bbm9'], ['Eb13'], ['Abm9'], ['Db13'], ['F#m9'], ['B13'], ['Gm9'], ['C7b13']]
+Roman Numerals:
+ i  i  ii9  V13  i  i  v9  I13  iv9  VII13  iii9  VI13  ♯i9  ♯IV13  ii9  V7
+Is it Diatonic?
+ i  i  ii9, !D  V13, !D  i  i  v9  I13, !D  iv9  VII13  iii9, !D  VI13  ♯i9, !D  ♯IV13, !D  ii9, !D  V7, !D
+Is it Borrowed?
+ i  i  ii9, major  V13, major  i  i  v9  I13, major  iv9  VII13  iii9, locrian  VI13  ♯i9  ♯IV13  ii9, major  V7, major
+Check if it has secondary dominants:
+ i  i  ii9  V13  i  i  v9  I13 (V13/iv)  iv9  VII13 (V13/iii)  iii9  VI13  ♯i9  ♯IV13  ii9  V7

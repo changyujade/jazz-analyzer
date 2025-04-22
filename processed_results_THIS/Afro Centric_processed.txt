@@ -1,0 +1,10 @@
+Section: None
+[['Dbmaj7#11'], ['Dbmaj7#11'], ['Dbmaj7#11'], ['Dbmaj7#11'], ['Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Dbmaj7#11'], ['Dbmaj7#11'], ['Dbmaj7#11'], ['Dbmaj7#11'], ['Abmaj7#11'], ['Abmaj7#11'], ['Abmaj7#11'], ['Abmaj7#11'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['Fm7'], ['Gbmaj7#11'], ['Fm7'], ['Gbmaj7#11'], ['Gm7b5'], ['Cmaj7#11']]
+Roman Numerals:
+ IM7  IM7  IM7  IM7  vii7  vii7  vii7  vii7  IM7  IM7  IM7  IM7  VM7  VM7  VM7  VM7  IVM7  IVM7  IVM7  IVM7  iii7  IVM7  iii7  IVM7  ♯ivø7  VIIM7
+Is it Diatonic?
+ IM7  IM7  IM7  IM7  vii7, !D  vii7, !D  vii7, !D  vii7, !D  IM7  IM7  IM7  IM7  VM7  VM7  VM7  VM7  IVM7  IVM7  IVM7  IVM7  iii7  IVM7  iii7  IVM7  ♯ivø7, !D  VIIM7, !D
+Is it Borrowed?
+ IM7  IM7  IM7  IM7  vii7, lydian  vii7, lydian  vii7, lydian  vii7, lydian  IM7  IM7  IM7  IM7  VM7  VM7  VM7  VM7  IVM7  IVM7  IVM7  IVM7  iii7  IVM7  iii7  IVM7  ivø7, lydian  VIIM7
+Check if it has secondary dominants:
+ IM7  IM7  IM7  IM7  vii7  vii7  vii7  vii7  IM7  IM7  IM7  IM7  VM7  VM7  VM7  VM7  IVM7  IVM7  IVM7  IVM7  iii7  IVM7  iii7  IVM7  ♯ivø7  VIIM7

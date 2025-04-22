@@ -1,0 +1,10 @@
+Section: i
+[['Dm', 'Dm', 'F', 'F'], ['Bb', 'Bb', 'Eb', 'Eb']]
+Roman Numerals:
+ vi  vi  I  I  IV  IV  ♭VII  ♭VII
+Is it Diatonic?
+ vi  vi  I  I  IV  IV  ♭VII, !D  ♭VII, !D
+Is it Borrowed?
+ vi  vi  I  I  IV  IV  VII, minor  VII, minor
+Check if it has secondary dominants:
+ vi  vi  I  I (V/IV)  IV  IV (V/♭VII)  ♭VII  ♭VII

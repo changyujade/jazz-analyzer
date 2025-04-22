@@ -1,0 +1,10 @@
+Section: None
+[['D69'], ['C69'], ['D69'], ['C69'], ['D69'], ['C69'], ['Bm7', 'Bb7'], ['Am7', 'D7#9'], ['G69'], ['F69'], ['G69'], ['F69'], ['D69'], ['C69'], ['D69'], ['C69'], ['Ab7#11'], ['G7'], ['F#7'], ['F7'], ['E7'], ['Ebmaj7'], ['D69'], ['C69'], ['D69'], ['C69']]
+Roman Numerals:
+ I  ♭VII  I  ♭VII  I  ♭VII  vi7  ♭VI7  v7  I7  IV  ♭III  IV  ♭III  I  ♭VII  I  ♭VII  ♭V7  IV7  III7  ♭III7  II7  ♭IIM7  I  ♭VII  I  ♭VII
+Is it Diatonic?
+ I  ♭VII, !D  I  ♭VII, !D  I  ♭VII, !D  vi7  ♭VI7, !D  v7, !D  I7  IV  ♭III, !D  IV  ♭III, !D  I  ♭VII, !D  I  ♭VII, !D  ♭V7, !D  IV7  III7, !D  ♭III7, !D  II7, !D  ♭IIM7, !D  I  ♭VII, !D  I  ♭VII, !D
+Is it Borrowed?
+ I  VII, minor  I  VII, minor  I  VII, minor  vi7  VI7, minor  v7, minor  I7  IV  III, minor  IV  III, minor  I  VII, minor  I  VII, minor  V7, locrian  IV7  III7  III7, minor  II7, lydian  IIM7, phrygian  I  VII, minor  I  VII, minor
+Check if it has secondary dominants:
+ I  ♭VII  I  ♭VII  I  ♭VII  vi7  ♭VI7  v7  I7 (V7/IV)  IV  ♭III  IV  ♭III  I  ♭VII  I  ♭VII  ♭V7  IV7  III7  ♭III7  II7  ♭IIM7  I  ♭VII  I  ♭VII

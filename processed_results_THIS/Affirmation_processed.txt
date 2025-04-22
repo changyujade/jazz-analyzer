@@ -1,0 +1,30 @@
+Section: A
+[['Em9'], ['Em9'], ['Bm9'], ['Bm9'], ['Em9'], ['Em9'], ['Bm9'], ['Bm9'], ['Bm9'], ['Am7', 'D7']]
+Roman Numerals:
+ iv9  iv9  i9  i9  iv9  iv9  i9  i9  i9  vii7  III7
+Is it Diatonic?
+ iv9  iv9  i9  i9  iv9  iv9  i9  i9  i9  vii7, !D  III7
+Is it Borrowed?
+ iv9  iv9  i9  i9  iv9  iv9  i9  i9  i9  vii7, phrygian  III7
+Check if it has secondary dominants:
+ iv9  iv9  i9  i9  iv9  iv9  i9  i9  i9  vii7  III7
+Section: B
+[['Bbmaj9'], ['Bbmaj9'], ['Bbmaj9'], ['Bbmaj9'], ['Bbmaj9'], ['Bbmaj9'], ['A9sus'], ['A9sus']]
+Roman Numerals:
+ ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  VII  VII
+Is it Diatonic?
+ ♭IM9, !D  ♭IM9, !D  ♭IM9, !D  ♭IM9, !D  ♭IM9, !D  ♭IM9, !D  VII, !D  VII, !D
+Is it Borrowed?
+ ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  VII  VII
+Check if it has secondary dominants:
+ ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  ♭IM9  VII  VII
+Section: None
+[['Bm9'], ['Bm9'], ['Bm9'], ['Bm9']]
+Roman Numerals:
+ i9  i9  i9  i9
+Is it Diatonic?
+ i9  i9  i9  i9
+Is it Borrowed?
+ i9  i9  i9  i9
+Check if it has secondary dominants:
+ i9  i9  i9  i9

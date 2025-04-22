@@ -1,0 +1,20 @@
+Section: A
+[['Ab'], ['G07/A'], ['Ab'], ['Ab07', 'G07/Ab'], ['Ab6'], ['F7b9'], ['Bbm7'], ['Eb7'], ['Abmaj7'], ['Gm7b5/Ab', 'G07/Ab']]
+Roman Numerals:
+ I  viiø7  I  iø7  viiø7  I  VI7  ii7  V7  IM7  viiø7  viiø7
+Is it Diatonic?
+ I  viiø7  I  iø7, !D  viiø7  I  VI7, !D  ii7  V7  IM7  viiø7  viiø7
+Is it Borrowed?
+ I  viiø7  I  iø7, locrian  viiø7  I  VI7  ii7  V7  IM7  viiø7  viiø7
+Check if it has secondary dominants:
+ I  viiø7  I  iø7  viiø7  I  VI7 (V7/ii)  ii7  V7  IM7  viiø7  viiø7
+Section: B
+[['Dbm', 'Ab7b9'], ['Dbm', 'Ab7b9'], ['Dbm', 'Dbm/maj7'], ['Dbm6', 'Dbmb6'], ['Abmaj7', 'F7b9#5'], ['Bm7', 'E7'], ['Bbm7'], ['Eb7']]
+Roman Numerals:
+ iv  I7  iv  I7  iv  iv  iv  iv  IM7  VI+7  ♯ii7  ♯V7  ii7  V7
+Is it Diatonic?
+ iv, !D  I7  iv, !D  I7  iv, !D  iv, !D  iv, !D  iv, !D  IM7  VI+7, !D  ♯ii7, !D  ♯V7, !D  ii7  V7
+Is it Borrowed?
+ iv, minor  I7  iv, minor  I7  iv, minor  iv, minor  iv, minor  iv, minor  IM7  VI+7  ♯ii7  ♯V7  ii7  V7
+Check if it has secondary dominants:
+ iv  I7 (V7/iv)  iv  I7 (V7/iv)  iv  iv  iv  iv  IM7  VI+7  ♯ii7  ♯V7  ii7  V7

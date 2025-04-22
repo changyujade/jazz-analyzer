@@ -1,0 +1,10 @@
+Section: None
+[['Ebmaj7']]
+Roman Numerals:
+ IM7
+Is it Diatonic?
+ IM7
+Is it Borrowed?
+ IM7
+Check if it has secondary dominants:
+ IM7

@@ -1,0 +1,10 @@
+Section: None
+[['Dbmaj7'], ['Eb/Db'], ['F/Db'], ['Dm7'], ['Amaj7/Eb(Ebm7b5)'], ['Bbmaj7/E(Em7b5)'], ['Bmaj7/F'], ['Bmaj7/F'], ['G7sus(Dm7)'], ['G7alt'], ['F7sus(Cm7)'], ['Dbmaj7#11'], ['Gbmaj7'], ['G7sus'], ['G7alt'], ['Ebmaj7', 'Dbmaj7/F'], ['Gbmaj7#11', '(F/Gb)'], ['Db7sus'], ['F/Db'], ['F/Db'], ['F/Db']]
+Roman Numerals:
+ IM7  II  III  ♯i7  ♯VM7  VIM7  ♯VIM7  ♯VIM7  ♯IV  ♯IV+7  III  IM7  IVM7  ♯IV  ♯IV+7  IIM7  IM65  IVM7  III  I  III  III  III
+Is it Diatonic?
+ IM7  II, !D  III, !D  ♯i7, !D  ♯VM7, !D  VIM7, !D  ♯VIM7, !D  ♯VIM7, !D  ♯IV, !D  ♯IV+7, !D  III, !D  IM7  IVM7  ♯IV, !D  ♯IV+7, !D  IIM7, !D  IM65  IVM7  III, !D  I, !D  III, !D  III, !D  III, !D
+Is it Borrowed?
+ IM7  II, lydian  III  ♯i7  ♯VM7  VIM7  ♯VIM7  ♯VIM7  ♯IV  ♯IV+7  III  IM7  IVM7  ♯IV  ♯IV+7  IIM7, lydian  IM65  IVM7  III  I  III  III  III
+Check if it has secondary dominants:
+ IM7  II  III  ♯i7  ♯VM7  VIM7  ♯VIM7  ♯VIM7  ♯IV  ♯IV+7  III  IM7 (VM7/IV)  IVM7  ♯IV  ♯IV+7  IIM7  IM65 (VM65/IV)  IVM7  III  I  III  III  III

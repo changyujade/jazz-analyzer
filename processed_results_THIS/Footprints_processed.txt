@@ -1,0 +1,10 @@
+Section: A
+[['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Fm11'], ['Fm11'], ['Fm11'], ['Fm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11'], ['F#m7b5'], ['F7#11'], ['E7alt'], ['A7alt'], ['Cm11'], ['Cm11'], ['Cm11'], ['Cm11']]
+Roman Numerals:
+ i11  i11  i11  i11  i11  i11  i11  i11  iv11  iv11  iv11  iv11  i11  i11  i11  i11  ♯ivø7  IV7  ♯III+7  ♯VI+7  i11  i11  i11  i11
+Is it Diatonic?
+ i11  i11  i11  i11  i11  i11  i11  i11  iv11  iv11  iv11  iv11  i11  i11  i11  i11  ♯ivø7, !D  IV7, !D  ♯III+7, !D  ♯VI+7, !D  i11  i11  i11  i11
+Is it Borrowed?
+ i11  i11  i11  i11  i11  i11  i11  i11  iv11  iv11  iv11  iv11  i11  i11  i11  i11  ivø7, lydian  IV7, major  ♯III+7  ♯VI+7  i11  i11  i11  i11
+Check if it has secondary dominants:
+ i11  i11  i11  i11  i11  i11  i11  i11  iv11  iv11  iv11  iv11  i11  i11  i11  i11  ♯ivø7  IV7  ♯III+7  ♯VI+7  i11  i11  i11  i11

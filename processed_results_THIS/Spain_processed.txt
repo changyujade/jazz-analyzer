@@ -1,0 +1,10 @@
+Section: None
+[['Gmaj7#11'], ['Gmaj7#11'], ['Gmaj7#11'], ['Gmaj7#11'], ['F#7b13'], ['F#7b13'], ['F#7b13'], ['F#7b13'], ['Em7'], ['Em7'], ['A7'], ['A7'], ['Dmaj7'], ['Dmaj7'], ['Gmaj7#11'], ['Gmaj7#11'], ['C#7alt'], ['C#7alt'], ['F#7b13'], ['F#7b13'], ['Bm7'], ['Bm7'], ['B7'], ['B7']]
+Roman Numerals:
+ VIM7  VIM7  VIM7  VIM7  V7  V7  V7  V7  iv7  iv7  VII7  VII7  IIIM7  IIIM7  VIM7  VIM7  II+7  II+7  V7  V7  i7  i7  I7  I7
+Is it Diatonic?
+ VIM7  VIM7  VIM7  VIM7  V7, !D  V7, !D  V7, !D  V7, !D  iv7  iv7  VII7  VII7  IIIM7  IIIM7  VIM7  VIM7  II+7, !D  II+7, !D  V7, !D  V7, !D  i7  i7  I7, !D  I7, !D
+Is it Borrowed?
+ VIM7  VIM7  VIM7  VIM7  V7, major  V7, major  V7, major  V7, major  iv7  iv7  VII7  VII7  IIIM7  IIIM7  VIM7  VIM7  II+7  II+7  V7, major  V7, major  i7  i7  I7, major  I7, major
+Check if it has secondary dominants:
+ VIM7  VIM7  VIM7  VIM7  V7  V7  V7  V7  iv7  iv7  VII7  VII7 (V7/III)  IIIM7  IIIM7 (VM7/VI)  VIM7  VIM7  II+7  II+7  V7  V7  i7  i7  I7  I7

@@ -1,0 +1,10 @@
+Section: None
+[['Abm7'], ['Db7'], ['Abm7'], ['Db7'], ['Gm7'], ['C7'], ['F6'], ['Gm7', 'C7']]
+Roman Numerals:
+ ♭iii7  ♭VI7  ♭iii7  ♭VI7  ii7  V7  I  ii7  V7
+Is it Diatonic?
+ ♭iii7, !D  ♭VI7, !D  ♭iii7, !D  ♭VI7, !D  ii7  V7  I  ii7  V7
+Is it Borrowed?
+ iii7, locrian  VI7, minor  iii7, locrian  VI7, minor  ii7  V7  I  ii7  V7
+Check if it has secondary dominants:
+ ♭iii7  ♭VI7  ♭iii7  ♭VI7  ii7  V7  I  ii7  V7

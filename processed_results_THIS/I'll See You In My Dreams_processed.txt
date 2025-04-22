@@ -1,0 +1,10 @@
+Section: A
+[['Bb6'], ['Bb6'], ['Bbm6'], ['Bbm6'], ['F6'], ['E7'], ['F6'], ['F6']]
+Roman Numerals:
+ IV  IV  iv  iv  I  VII7  I  I
+Is it Diatonic?
+ IV  IV  iv, !D  iv, !D  I  VII7, !D  I  I
+Is it Borrowed?
+ IV  IV  iv, minor  iv, minor  I  VII7  I  I
+Check if it has secondary dominants:
+ IV  IV  iv  iv  I  VII7  I  I

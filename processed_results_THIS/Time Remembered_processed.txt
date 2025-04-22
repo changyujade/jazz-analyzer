@@ -1,0 +1,10 @@
+Section: None
+[['Bm9'], ['Cmaj7#11'], ['Fmaj7#11'], ['Em9'], ['Am9', 'Dm9'], ['Gm9'], ['Ebmaj7#11'], ['Abmaj7#11'], ['Am9'], ['Dm9'], ['Gm9'], ['Cm9'], ['Fm11'], ['Em9'], ['Bm9'], ['Bm9'], ['Ebm9'], ['Am9'], ['Cm9'], ['F#m9'], ['Bm9'], ['Gm9'], ['Ebmaj7#11'], ['Dm7'], ['Cm9'], ['Cm9']]
+Roman Numerals:
+ i9  ♭IIM7  ♭VM7  iv9  vii9  iii9  vi9  ♭IVM7  ♭VIIM7  vii9  iii9  vi9  ♭ii9  ♭v11  iv9  i9  i9  ♭iv9  vii9  ♭ii9  v9  i9  vi9  ♭IVM7  iii7  ♭ii9  ♭ii9
+Is it Diatonic?
+ i9  ♭IIM7, !D  ♭VM7, !D  iv9  vii9, !D  iii9, !D  vi9, !D  ♭IVM7, !D  ♭VIIM7, !D  vii9, !D  iii9, !D  vi9, !D  ♭ii9, !D  ♭v11, !D  iv9  i9  i9  ♭iv9, !D  vii9, !D  ♭ii9, !D  v9  i9  vi9, !D  ♭IVM7, !D  iii7, !D  ♭ii9, !D  ♭ii9, !D
+Is it Borrowed?
+ i9  IIM7, phrygian  VM7, locrian  iv9  vii9, phrygian  iii9, locrian  vi9  ♭IVM7  ♭VIIM7  vii9, phrygian  iii9, locrian  vi9  ♭ii9  ♭v11  iv9  i9  i9  ♭iv9  vii9, phrygian  ♭ii9  v9  i9  vi9  ♭IVM7  iii7, locrian  ♭ii9  ♭ii9
+Check if it has secondary dominants:
+ i9  ♭IIM7 (VM7/♭V)  ♭VM7  iv9  vii9  iii9  vi9  ♭IVM7 (VM7/♭VII)  ♭VIIM7  vii9  iii9  vi9  ♭ii9  ♭v11  iv9  i9  i9  ♭iv9  vii9  ♭ii9  v9  i9  vi9  ♭IVM7  iii7  ♭ii9  ♭ii9

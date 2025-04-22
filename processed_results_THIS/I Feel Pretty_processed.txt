@@ -1,0 +1,30 @@
+Section: A
+[['F'], ['Caug'], ['F'], ['Caug'], ['F', 'Caug'], ['F/A'], ['Gm7'], ['C7'], ['Dm'], ['Dm/C'], ['Gm7'], ['C', 'C7']]
+Roman Numerals:
+ IV  I+7  IV  I+7  IV  I+7  IV6  v7  I7  ii  ii  v7  I  I7
+Is it Diatonic?
+ IV  I+7, !D  IV  I+7, !D  IV  I+7, !D  IV6  v7, !D  I7  ii  ii  v7, !D  I  I7
+Is it Borrowed?
+ IV  I+7  IV  I+7  IV  I+7  IV6  v7, minor  I7  ii  ii  v7, minor  I  I7
+Check if it has secondary dominants:
+ IV  I+7  IV  I+7  IV  I+7  IV6  v7  I7  ii  ii  v7  I  I7
+Section: B
+[['Bb'], ['Bb', 'Bb', 'F7/C', 'F/A'], ['Bb', 'F7', 'Bb/D', 'Bb/D'], ['Bb/D', 'F'], ['Bb'], ['Bb', 'Bb', 'F7', 'Bb/D'], ['F'], ['F'], ['Am/E'], ['E7'], ['Am'], ['Fm6/Ab'], ['C7/G'], ['C7/G', 'C7/G', 'Gm7/C', 'Gm7'], ['C7', 'C7', 'Bb/D', 'C9/E'], ['C9/E', 'Caug']]
+Roman Numerals:
+ ♭VII  ♭VII  ♭VII  IV43  IV6  ♭VII  IV7  ♭VII6  ♭VII6  ♭VII6  IV  ♭VII  ♭VII  ♭VII  IV7  ♭VII6  IV  IV  vi64  III7  vi  iv6  I43  I43  I43  v7  v7  I7  I7  ♭VII6  I9  I9  I+7
+Is it Diatonic?
+ ♭VII, !D  ♭VII, !D  ♭VII, !D  IV43  IV6  ♭VII, !D  IV7  ♭VII6, !D  ♭VII6, !D  ♭VII6, !D  IV  ♭VII, !D  ♭VII, !D  ♭VII, !D  IV7  ♭VII6, !D  IV  IV  vi64  III7, !D  vi  iv6, !D  I43  I43  I43  v7, !D  v7, !D  I7  I7  ♭VII6, !D  I9  I9  I+7, !D
+Is it Borrowed?
+ VII, minor  VII, minor  VII, minor  IV43  IV6  VII, minor  IV7  VII6, minor  VII6, minor  VII6, minor  IV  VII, minor  VII, minor  VII, minor  IV7  VII6, minor  IV  IV  vi64  III7  vi  iv6, minor  I43  I43  I43  v7, minor  v7, minor  I7  I7  VII6, minor  I9  I9  I+7
+Check if it has secondary dominants:
+ ♭VII  ♭VII  ♭VII  IV43  IV6 (V6/♭VII)  ♭VII  IV7 (V7/♭VII)  ♭VII6  ♭VII6  ♭VII6  IV (V/♭VII)  ♭VII  ♭VII  ♭VII  IV7 (V7/♭VII)  ♭VII6  IV  IV  vi64  III7 (V7/vi)  vi  iv6  I43  I43  I43  v7  v7  I7  I7  ♭VII6  I9  I9  I+7
+Section: None
+[['C7', 'Gm7', 'C7', 'C7'], ['Dm'], ['Dm/C'], ['Gm7'], ['C7'], ['F'], ['F', 'F', 'Eb/G', 'C/E'], ['F'], ['F']]
+Roman Numerals:
+ I7  v7  I7  I7  ii  ii  v7  I7  IV  IV  IV  ♭III6  I6  IV  IV
+Is it Diatonic?
+ I7  v7, !D  I7  I7  ii  ii  v7, !D  I7  IV  IV  IV  ♭III6, !D  I6  IV  IV
+Is it Borrowed?
+ I7  v7, minor  I7  I7  ii  ii  v7, minor  I7  IV  IV  IV  III6, minor  I6  IV  IV
+Check if it has secondary dominants:
+ I7  v7  I7  I7  ii  ii  v7  I7 (V7/IV)  IV  IV  IV  ♭III6  I6 (V6/IV)  IV  IV

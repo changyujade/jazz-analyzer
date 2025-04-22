@@ -1,0 +1,20 @@
+Section: i
+[['Eb'], ['Eb'], ['Eb'], ['Eb']]
+Roman Numerals:
+ I  I  I  I
+Is it Diatonic?
+ I  I  I  I
+Is it Borrowed?
+ I  I  I  I
+Check if it has secondary dominants:
+ I  I  I  I
+Section: A
+[['Eb'], ['Eb'], ['B', 'F#'], ['C#', 'D#'], ['Bb', 'Eb'], ['Ab', 'Bb'], ['Eb', 'E'], ['F#', 'Db'], ['Ab'], ['Ab'], ['Eb', 'Ab'], ['Bb', 'Eb'], ['B', 'F#'], ['C#', 'D#'], ['Bb', 'Eb'], ['Ab', 'Bb'], ['Eb', 'B'], ['C#', 'Bb'], ['Eb']]
+Roman Numerals:
+ I  I  ♯V  ♯II  ♯VI  ♯VII  V  I  IV  V  I  ♯I  ♯II  ♭VII  IV  IV  I  IV  V  I  ♯V  ♯II  ♯VI  ♯VII  V  I  IV  V  I  ♯V  ♯VI  V  I
+Is it Diatonic?
+ I  I  ♯V, !D  ♯II, !D  ♯VI, !D  ♯VII, !D  V  I  IV  V  I  ♯I, !D  ♯II, !D  ♭VII, !D  IV  IV  I  IV  V  I  ♯V, !D  ♯II, !D  ♯VI, !D  ♯VII, !D  V  I  IV  V  I  ♯V, !D  ♯VI, !D  V  I
+Is it Borrowed?
+ I  I  ♯V  ♯II  ♯VI  ♯VII  V  I  IV  V  I  ♯I  ♯II  VII, minor  IV  IV  I  IV  V  I  ♯V  ♯II  ♯VI  ♯VII  V  I  IV  V  I  ♯V  ♯VI  V  I
+Check if it has secondary dominants:
+ I  I  ♯V  ♯II  ♯VI  ♯VII  V  I (V/IV)  IV  V  I  ♯I  ♯II  ♭VII  IV  IV  I (V/IV)  IV  V  I  ♯V  ♯II  ♯VI  ♯VII  V  I (V/IV)  IV  V  I  ♯V  ♯VI  V  I

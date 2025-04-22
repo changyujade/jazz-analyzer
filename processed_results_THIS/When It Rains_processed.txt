@@ -1,0 +1,10 @@
+Section: None
+[['B7/A'], ['G#m6'], ['Em/maj7/G'], ['B'], ['B7/A'], ['G#m6'], ['Em/maj7/G'], ['B', 'B7'], ['Emaj7'], ['C#7'], ['Emaj7'], ['G7'], ['B'], ['G#m7'], ['Em/maj7/G'], ['B']]
+Roman Numerals:
+ I42  vi  iv  I  I42  vi  iv  I  I7  IVM7  II7  IVM7  ♭VI7  I  vi7  iv  I
+Is it Diatonic?
+ I42  vi  iv, !D  I  I42  vi  iv, !D  I  I7  IVM7  II7, !D  IVM7  ♭VI7, !D  I  vi7  iv, !D  I
+Is it Borrowed?
+ I42  vi  iv, minor  I  I42  vi  iv, minor  I  I7  IVM7  II7, lydian  IVM7  VI7, minor  I  vi7  iv, minor  I
+Check if it has secondary dominants:
+ I42  vi  iv  I  I42  vi  iv  I  I7 (V7/IV)  IVM7  II7  IVM7  ♭VI7  I  vi7  iv  I

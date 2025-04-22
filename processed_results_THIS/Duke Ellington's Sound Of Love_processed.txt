@@ -1,0 +1,30 @@
+Section: A
+[['D7#9'], ['Dbmaj9'], ['Ab13b9'], ['Dbmaj9'], ['F7#5#9'], ['Bb7b9#5'], ['Ab7b9#5'], ['Dbmaj7'], ['F7#11'], ['Ebm9'], ['Ab13b9'], ['E', 'Eb6', 'Dmaj7', 'Ab7#11'], ['Dbmaj9']]
+Roman Numerals:
+ ♯I7  IM9  V13  IM9  III+7  VI+7  V+7  IM7  III7  ii9  V13  ♯II  II  ♯IM7  V7  IM9
+Is it Diatonic?
+ ♯I7, !D  IM9  V13  IM9  III+7, !D  VI+7, !D  V+7, !D  IM7  III7, !D  ii9  V13  ♯II, !D  II, !D  ♯IM7, !D  V7  IM9
+Is it Borrowed?
+ ♯I7  IM9  V13  IM9  III+7  VI+7  V+7  IM7  III7  ii9  V13  ♯II  II, lydian  ♯IM7  V7  IM9
+Check if it has secondary dominants:
+ ♯I7  IM9  V13  IM9  III+7  VI+7  V+7  IM7  III7  ii9  V13  ♯II  II  ♯IM7  V7  IM9
+Section: B
+[['F#m7b5', 'F#07'], ['Emaj7', 'E6'], ['Em7b5', 'A7#11'], ['Dmaj7'], ['Dm7', 'G7'], ['Cmaj7', 'Cmaj7', 'G7/B', 'Am7/Bb'], ['A13#11', 'A13#11', 'Bbm7', 'Eb13'], ['Abmaj7', 'F7b9']]
+Roman Numerals:
+ ♯iiiø7  ♯iiiø7  ♯IIM7  ♯II  ♯iiø7  ♯V7  ♯IM7  ♯i7  ♯IV7  VIIM7  VIIM7  ♯IV65  ♯v7  ♯V13  ♯V13  vi7  II13  VM7  III7
+Is it Diatonic?
+ ♯iiiø7, !D  ♯iiiø7, !D  ♯IIM7, !D  ♯II, !D  ♯iiø7, !D  ♯V7, !D  ♯IM7, !D  ♯i7, !D  ♯IV7, !D  VIIM7, !D  VIIM7, !D  ♯IV65, !D  ♯v7, !D  ♯V13, !D  ♯V13, !D  vi7  II13, !D  VM7  III7, !D
+Is it Borrowed?
+ ♯iiiø7  ♯iiiø7  ♯IIM7  ♯II  ♯iiø7  ♯V7  ♯IM7  ♯i7  ♯IV7  VIIM7  VIIM7  ♯IV65  ♯v7  ♯V13  ♯V13  vi7  II13, lydian  VM7  III7
+Check if it has secondary dominants:
+ ♯iiiø7  ♯iiiø7  ♯IIM7  ♯II  ♯iiø7  ♯V7 (V7/♯I)  ♯IM7  ♯i7  ♯IV7 (V7/VII)  VIIM7  VIIM7  ♯IV65  ♯v7  ♯V13  ♯V13  vi7  II13 (V13/V)  VM7  III7
+Section: C
+[['Bb7b9#11', 'Eb9#11'], ['Abmaj7', 'D9'], ['Dbmaj9'], ['Gb13#11'], ['Fm11'], ['Bb7#11'], ['Ebm7b5'], ['Ab13b9'], ['E', 'Eb6', 'Dmaj7', 'Ab7b9#11'], ['Dbmaj9'], ['D13#11']]
+Roman Numerals:
+ VI7  II9  VM7  ♯I9  IM9  IV13  iii11  VI7  iiø7  V13  ♯II  II  ♯IM7  V7  IM9  ♯I13
+Is it Diatonic?
+ VI7, !D  II9, !D  VM7  ♯I9, !D  IM9  IV13  iii11  VI7, !D  iiø7, !D  V13  ♯II, !D  II, !D  ♯IM7, !D  V7  IM9  ♯I13, !D
+Is it Borrowed?
+ VI7  II9, lydian  VM7  ♯I9  IM9  IV13  iii11  VI7  iiø7, minor  V13  ♯II  II, lydian  ♯IM7  V7  IM9  ♯I13
+Check if it has secondary dominants:
+ VI7 (V7/II)  II9 (V9/V)  VM7  ♯I9  IM9 (VM9/IV)  IV13  iii11  VI7  iiø7  V13  ♯II  II  ♯IM7  V7  IM9  ♯I13

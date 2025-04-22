@@ -1,0 +1,40 @@
+Section: A
+[['Bbmaj7', 'Cm7'], ['Dm7', 'G7b9'], ['Cm7', 'B07'], ['Cm7', 'F7'], ['Bbmaj7', 'Eb7#11'], ['Dm7', 'Gm7'], ['Em7', 'A7'], ['Am7b5', 'D7b9']]
+Roman Numerals:
+ IM7  ii7  iii7  VI7  ii7  ♯iø7  ii7  V7  IM7  IV7  iii7  vi7  ♯iv7  VII7  viiø7  III7
+Is it Diatonic?
+ IM7  ii7  iii7  VI7, !D  ii7  ♯iø7, !D  ii7  V7  IM7  IV7  iii7  vi7  ♯iv7, !D  VII7, !D  viiø7  III7, !D
+Is it Borrowed?
+ IM7  ii7  iii7  VI7  ii7  ♯iø7  ii7  V7  IM7  IV7  iii7  vi7  ♯iv7  VII7  viiø7  III7
+Check if it has secondary dominants:
+ IM7  ii7  iii7  VI7 (V7/ii)  ii7  ♯iø7 (viiø7/ii)  ii7  V7  IM7 (VM7/IV)  IV7  iii7  vi7  ♯iv7  VII7  viiø7  III7
+Section: B
+[['Dmaj7', 'Bm7'], ['Abm7', 'Db7'], ['Gbmaj7', 'Abm7'], ['Bbm7', 'Bb7'], ['Ebmaj7', 'Cm7'], ['A7'], ['Dmaj7', 'Bm7'], ['Cm7', 'F7']]
+Roman Numerals:
+ IIIM7  ♯i7  ♭vii7  ♭III7  ♭VIM7  ♭vii7  i7  I7  IVM7  ii7  VII7  IIIM7  ♯i7  ii7  V7
+Is it Diatonic?
+ IIIM7, !D  ♯i7, !D  ♭vii7, !D  ♭III7, !D  ♭VIM7, !D  ♭vii7, !D  i7, !D  I7  IVM7  ii7  VII7, !D  IIIM7, !D  ♯i7, !D  ii7  V7
+Is it Borrowed?
+ IIIM7  ♯i7  vii7, phrygian  III7, minor  VIM7, minor  vii7, phrygian  i7, minor  I7  IVM7  ii7  VII7  IIIM7  ♯i7  ii7  V7
+Check if it has secondary dominants:
+ IIIM7  ♯i7  ♭vii7  ♭III7 (V7/♭VI)  ♭VIM7  ♭vii7  i7  I7 (V7/IV)  IVM7  ii7  VII7 (V7/III)  IIIM7  ♯i7  ii7  V7
+Section: C
+[['Ebmaj7', 'Cm7'], ['Am7', 'D7'], ['Gm7', 'Dm7b5'], ['G7b9', 'Db7#11'], ['Cm7', 'Dm7'], ['Ebmaj7', 'F7sus'], ['Bb6', 'Db7'], ['Gbmaj7', 'F7sus']]
+Roman Numerals:
+ IVM7  ii7  vii7  III7  vi7  iiiø7  VI7  ♭III7  ii7  iii7  IVM7  V  I  ♭III7  ♭VIM7  V
+Is it Diatonic?
+ IVM7  ii7  vii7, !D  III7, !D  vi7  iiiø7, !D  VI7, !D  ♭III7, !D  ii7  iii7  IVM7  V, !D  I  ♭III7, !D  ♭VIM7, !D  V, !D
+Is it Borrowed?
+ IVM7  ii7  vii7, lydian  III7  vi7  iiiø7, mixolydian  VI7  III7, minor  ii7  iii7  IVM7  V  I  III7, minor  VIM7, minor  V
+Check if it has secondary dominants:
+ IVM7  ii7  vii7  III7 (V7/vi)  vi7  iiiø7  VI7  ♭III7  ii7  iii7  IVM7  V  I  ♭III7 (V7/♭VI)  ♭VIM7  V
+Section: None
+[['Bb']]
+Roman Numerals:
+ I
+Is it Diatonic?
+ I
+Is it Borrowed?
+ I
+Check if it has secondary dominants:
+ I

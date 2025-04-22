@@ -1,0 +1,30 @@
+Section: A
+[['Cmaj7'], ['Bb7'], ['Ebmaj7'], ['Ab7b9'], ['Dbmaj7'], ['G7'], ['Cmaj7'], ['Bb7#11'], ['Dmaj7'], ['Am7'], ['F#m7'], ['B13b9'], ['Em7'], ['Ab7'], ['Dbmaj7'], ['G7']]
+Roman Numerals:
+ IM7  ♭VII7  ♭IIIM7  ♭VI7  ♭IIM7  V7  IM7  ♭VII7  IIM7  vi7  ♯iv7  VII13  iii7  ♭VI7  ♭IIM7  V7
+Is it Diatonic?
+ IM7  ♭VII7, !D  ♭IIIM7, !D  ♭VI7, !D  ♭IIM7, !D  V7  IM7  ♭VII7, !D  IIM7, !D  vi7  ♯iv7, !D  VII13, !D  iii7  ♭VI7, !D  ♭IIM7, !D  V7
+Is it Borrowed?
+ IM7  VII7, minor  IIIM7, minor  VI7, minor  IIM7, phrygian  V7  IM7  VII7, minor  IIM7, lydian  vi7  ♯iv7  VII13  iii7  VI7, minor  IIM7, phrygian  V7
+Check if it has secondary dominants:
+ IM7  ♭VII7 (V7/♭III)  ♭IIIM7 (VM7/♭VI)  ♭VI7 (V7/♭II)  ♭IIM7  V7  IM7  ♭VII7  IIM7  vi7  ♯iv7  VII13 (V13/iii)  iii7  ♭VI7 (V7/♭II)  ♭IIM7  V7
+Section: B
+[['Bmaj7'], ['Ab7b9'], ['Dbmaj7'], ['Bb7'], ['Bmaj7'], ['G7'], ['Cmaj7'], ['Ab7'], ['Dbmaj7'], ['G7'], ['Cmaj7'], ['A7alt'], ['Dm7', 'Em7'], ['Fmaj7', 'G7'], ['Cmaj7'], ['G7']]
+Roman Numerals:
+ VIIM7  ♭VI7  ♭IIM7  ♭VII7  VIIM7  V7  IM7  ♭VI7  ♭IIM7  V7  IM7  VI+7  ii7  iii7  IVM7  V7  IM7  V7
+Is it Diatonic?
+ VIIM7, !D  ♭VI7, !D  ♭IIM7, !D  ♭VII7, !D  VIIM7, !D  V7  IM7  ♭VI7, !D  ♭IIM7, !D  V7  IM7  VI+7, !D  ii7  iii7  IVM7  V7  IM7  V7
+Is it Borrowed?
+ VIIM7  VI7, minor  IIM7, phrygian  VII7, minor  VIIM7  V7  IM7  VI7, minor  IIM7, phrygian  V7  IM7  VI+7  ii7  iii7  IVM7  V7  IM7  V7
+Check if it has secondary dominants:
+ VIIM7  ♭VI7 (V7/♭II)  ♭IIM7  ♭VII7  VIIM7  V7  IM7  ♭VI7 (V7/♭II)  ♭IIM7  V7  IM7  VI+7  ii7  iii7  IVM7  V7  IM7  V7
+Section: None
+[['Dm7', 'Em7'], ['Fmaj7', 'G7'], ['Cmaj7', 'Abmaj7'], ['Bbmaj7', 'Gmaj7'], ['Bmaj7'], ['Bmaj7']]
+Roman Numerals:
+ ii7  iii7  IVM7  V7  IM7  ♭VIM7  ♭VIIM7  VM7  VIIM7  VIIM7
+Is it Diatonic?
+ ii7  iii7  IVM7  V7  IM7  ♭VIM7, !D  ♭VIIM7, !D  VM7  VIIM7, !D  VIIM7, !D
+Is it Borrowed?
+ ii7  iii7  IVM7  V7  IM7  VIM7, minor  VIIM7, minor  VM7  VIIM7  VIIM7
+Check if it has secondary dominants:
+ ii7  iii7  IVM7  V7  IM7  ♭VIM7  ♭VIIM7  VM7  VIIM7  VIIM7

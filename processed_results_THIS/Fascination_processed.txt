@@ -1,0 +1,30 @@
+Section: A
+[['C6'], ['Eb07'], ['Cmaj7'], ['Cmaj7'], ['Cmaj7'], ['Eb07'], ['Dm7'], ['G7']]
+Roman Numerals:
+ I  ♭iiiø7  IM7  IM7  IM7  ♭iiiø7  ii7  V7
+Is it Diatonic?
+ I  ♭iiiø7, !D  IM7  IM7  IM7  ♭iiiø7, !D  ii7  V7
+Is it Borrowed?
+ I  ♭iiiø7  IM7  IM7  IM7  ♭iiiø7  ii7  V7
+Check if it has secondary dominants:
+ I  ♭iiiø7  IM7  IM7  IM7  ♭iiiø7  ii7  V7
+Section: B
+[['Dm7'], ['Dm7'], ['Dm7'], ['Dm7'], ['Dm7'], ['Dm7'], ['Ab7'], ['G7']]
+Roman Numerals:
+ ii7  ii7  ii7  ii7  ii7  ii7  ♭VI7  V7
+Is it Diatonic?
+ ii7  ii7  ii7  ii7  ii7  ii7  ♭VI7, !D  V7
+Is it Borrowed?
+ ii7  ii7  ii7  ii7  ii7  ii7  VI7, minor  V7
+Check if it has secondary dominants:
+ ii7  ii7  ii7  ii7  ii7  ii7  ♭VI7  V7
+Section: C
+[['Dm7'], ['Dm7'], ['G7'], ['G7'], ['Dm7'], ['G7'], ['C6'], ['G7sus']]
+Roman Numerals:
+ ii7  ii7  V7  V7  ii7  V7  I  V
+Is it Diatonic?
+ ii7  ii7  V7  V7  ii7  V7  I  V, !D
+Is it Borrowed?
+ ii7  ii7  V7  V7  ii7  V7  I  V
+Check if it has secondary dominants:
+ ii7  ii7  V7  V7  ii7  V7  I  V

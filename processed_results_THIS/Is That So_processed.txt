@@ -1,0 +1,30 @@
+Section: None
+[['Fm7', 'Ebm9'], ['Bmaj7', 'C#m9'], ['Amaj7', 'Dmaj7']]
+Roman Numerals:
+ iv7  ♭iii9  VIIM7  ♯i9  VIM7  IIM7
+Is it Diatonic?
+ iv7, !D  ♭iii9, !D  VIIM7, !D  ♯i9, !D  VIM7, !D  IIM7, !D
+Is it Borrowed?
+ iv7, minor  iii9, locrian  VIIM7  ♯i9  VIM7  IIM7, lydian
+Check if it has secondary dominants:
+ iv7  ♭iii9  VIIM7  ♯i9  VIM7 (VM7/II)  IIM7
+Section: i
+[['Gmaj7'], ['Gb7#5'], ['F13'], ['E7b9'], ['Ebmaj7'], ['Am7', 'D7'], ['Gmaj7'], ['Cm7', 'F7'], ['Bbmaj7'], ['A7#5'], ['Ab13'], ['G7b9'], ['Gbmaj7'], ['Ebm7', 'Dbm7'], ['Amaj7', 'Bm9'], ['Gmaj7', 'Cmaj7'], ['Fmaj7'], ['E7#5'], ['Eb13'], ['D7b9'], ['Dbmaj7'], ['Gm7', 'C7'], ['Abm7', 'Db7'], ['Am7', 'D7']]
+Roman Numerals:
+ VM7  ♭V+7  IV13  III7  ♭IIIM7  vi7  II7  VM7  i7  IV7  ♭VIIM7  VI+7  ♭VI13  V7  ♭VM7  ♭iii7  ♭ii7  VIM7  vii9  VM7  IM7  IVM7  III+7  ♭III13  II7  ♭IIM7  v7  I7  ♭vi7  ♭II7  vi7  II7
+Is it Diatonic?
+ VM7  ♭V+7, !D  IV13  III7, !D  ♭IIIM7, !D  vi7  II7, !D  VM7  i7, !D  IV7  ♭VIIM7, !D  VI+7, !D  ♭VI13, !D  V7  ♭VM7, !D  ♭iii7, !D  ♭ii7, !D  VIM7, !D  vii9, !D  VM7  IM7  IVM7  III+7, !D  ♭III13, !D  II7, !D  ♭IIM7, !D  v7, !D  I7  ♭vi7, !D  ♭II7, !D  vi7  II7, !D
+Is it Borrowed?
+ VM7  ♭V+7  IV13  III7  IIIM7, minor  vi7  II7, lydian  VM7  i7, minor  IV7  VIIM7, minor  VI+7  VI13, minor  V7  VM7, locrian  iii7, locrian  ♭ii7  VIM7  vii9, lydian  VM7  IM7  IVM7  III+7  III13, minor  II7, lydian  IIM7, phrygian  v7, minor  I7  ♭vi7  II7, phrygian  vi7  II7, lydian
+Check if it has secondary dominants:
+ VM7  ♭V+7  IV13  III7  ♭IIIM7  vi7  II7 (V7/V)  VM7  i7  IV7 (V7/♭VII)  ♭VIIM7  VI+7  ♭VI13  V7  ♭VM7  ♭iii7  ♭ii7  VIM7  vii9  VM7  IM7 (VM7/IV)  IVM7  III+7  ♭III13  II7  ♭IIM7  v7  I7  ♭vi7  ♭II7  vi7  II7
+Section: A
+[['Ebmaj7'], ['Cm7', 'Bbm9'], ['Gbmaj7', 'Abm9'], ['Emaj7', 'Amaj7'], ['Dmaj7', 'Fmaj7#11']]
+Roman Numerals:
+ ♭IIIM7  i7  ♭vii9  ♭VM7  ♭vi9  IIIM7  VIM7  IIM7  IVM7
+Is it Diatonic?
+ ♭IIIM7, !D  i7, !D  ♭vii9, !D  ♭VM7, !D  ♭vi9, !D  IIIM7, !D  VIM7, !D  IIM7, !D  IVM7
+Is it Borrowed?
+ IIIM7, minor  i7, minor  vii9, phrygian  VM7, locrian  ♭vi9  IIIM7  VIM7  IIM7, lydian  IVM7
+Check if it has secondary dominants:
+ ♭IIIM7  i7  ♭vii9  ♭VM7  ♭vi9  IIIM7 (VM7/VI)  VIM7 (VM7/II)  IIM7  IVM7

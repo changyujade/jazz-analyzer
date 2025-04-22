@@ -1,0 +1,10 @@
+Section: None
+[['Bb7#11'], ['Eb9'], ['Dmaj7#11'], ['Db9#11']]
+Roman Numerals:
+ IV7  ♭VII9  VIM7  ♭VI9
+Is it Diatonic?
+ IV7  ♭VII9, !D  VIM7, !D  ♭VI9, !D
+Is it Borrowed?
+ IV7  VII9, minor  VIM7  VI9, minor
+Check if it has secondary dominants:
+ IV7 (V7/♭VII)  ♭VII9  VIM7  ♭VI9

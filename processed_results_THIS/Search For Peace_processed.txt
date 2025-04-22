@@ -1,0 +1,40 @@
+Section: A
+[['Am7b5', 'D7b9'], ['G13sus'], ['Am7b5', 'D7b9'], ['G13sus'], ['Gm11', 'C7b9'], ['Fm7', 'Bb13b9'], ['Ebm7', 'Ab13b9'], ['C#m7', 'E7/B']]
+Roman Numerals:
+ viø7  II7  V  viø7  II7  V  v11  I7  iv7  ♭VII13  ♭iii7  ♭VI13  ♯i7  III43
+Is it Diatonic?
+ viø7, !D  II7, !D  V, !D  viø7, !D  II7, !D  V, !D  v11, !D  I7  iv7, !D  ♭VII13, !D  ♭iii7, !D  ♭VI13, !D  ♯i7, !D  III43, !D
+Is it Borrowed?
+ viø7, dorian  II7, lydian  V  viø7, dorian  II7, lydian  V  v11, minor  I7  iv7, minor  VII13, minor  iii7, locrian  VI13, minor  ♯i7  III43
+Check if it has secondary dominants:
+ viø7  II7  V  viø7  II7  V  v11  I7 (V7/iv)  iv7  ♭VII13 (V13/♭iii)  ♭iii7  ♭VI13  ♯i7  III43
+Section: B
+[['C13', 'Ab13/C'], ['C13', 'Ab13/C'], ['C13', 'Ab13/C'], ['Am7', 'D7'], ['Gm9', 'Abmaj7/G'], ['Gm9', 'Abmaj7/G'], ['Gm9', 'Abmaj7/G'], ['G13sus', 'G13']]
+Roman Numerals:
+ I13  ♭VI13  I13  ♭VI13  I13  ♭VI13  vi7  II7  v9  ♭VIM42  v9  ♭VIM42  v9  ♭VIM42  V  V13
+Is it Diatonic?
+ I13  ♭VI13, !D  I13  ♭VI13, !D  I13  ♭VI13, !D  vi7  II7, !D  v9, !D  ♭VIM42, !D  v9, !D  ♭VIM42, !D  v9, !D  ♭VIM42, !D  V, !D  V13
+Is it Borrowed?
+ I13  VI13, minor  I13  VI13, minor  I13  VI13, minor  vi7  II7, lydian  v9, minor  VIM42, minor  v9, minor  VIM42, minor  v9, minor  VIM42, minor  V  V13
+Check if it has secondary dominants:
+ I13  ♭VI13  I13  ♭VI13  I13  ♭VI13  vi7  II7 (V7/v)  v9  ♭VIM42  v9  ♭VIM42  v9  ♭VIM42  V  V13
+Section: C
+[['Am7b5', 'D7b9'], ['G13sus'], ['Am7b5', 'D7b9'], ['G13sus'], ['Gm11', 'C7b9'], ['Fm7', 'Bb13b9'], ['Ebm7', 'Ab13b9'], ['C#m7', 'E7/B']]
+Roman Numerals:
+ viø7  II7  V  viø7  II7  V  v11  I7  iv7  ♭VII13  ♭iii7  ♭VI13  ♯i7  III43
+Is it Diatonic?
+ viø7, !D  II7, !D  V, !D  viø7, !D  II7, !D  V, !D  v11, !D  I7  iv7, !D  ♭VII13, !D  ♭iii7, !D  ♭VI13, !D  ♯i7, !D  III43, !D
+Is it Borrowed?
+ viø7, dorian  II7, lydian  V  viø7, dorian  II7, lydian  V  v11, minor  I7  iv7, minor  VII13, minor  iii7, locrian  VI13, minor  ♯i7  III43
+Check if it has secondary dominants:
+ viø7  II7  V  viø7  II7  V  v11  I7 (V7/iv)  iv7  ♭VII13 (V13/♭iii)  ♭iii7  ♭VI13  ♯i7  III43
+Section: None
+[['C13']]
+Roman Numerals:
+ I13
+Is it Diatonic?
+ I13
+Is it Borrowed?
+ I13
+Check if it has secondary dominants:
+ I13

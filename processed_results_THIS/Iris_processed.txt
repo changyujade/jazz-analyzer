@@ -1,0 +1,10 @@
+Section: None
+[['Fm11'], ['Fm11'], ['Emaj7#11'], ['Gbmaj7#11'], ['Bb7#5'], ['Db7#11'], ['Abmaj7#5'], ['Abmaj7#5'], ['Cm7'], ['Cm7'], ['Db7#11'], ['Cm7'], ['Db7#11'], ['Dbmb6'], ['Db7#11'], ['Db7#11']]
+Roman Numerals:
+ i11  i11  ♯VIIM7  ♭IIM7  IV+7  VI7  IIIM+7  IIIM+7  v7  v7  VI7  v7  VI7  vi  VI7  VI7
+Is it Diatonic?
+ i11  i11  ♯VIIM7, !D  ♭IIM7, !D  IV+7, !D  VI7  IIIM+7, !D  IIIM+7, !D  v7  v7  VI7  v7  VI7  vi, !D  VI7  VI7
+Is it Borrowed?
+ i11  i11  ♯VIIM7  IIM7, phrygian  IV+7  VI7  IIIM+7  IIIM+7  v7  v7  VI7  v7  VI7  vi  VI7  VI7
+Check if it has secondary dominants:
+ i11  i11  ♯VIIM7  ♭IIM7  IV+7  VI7  IIIM+7  IIIM+7  v7  v7  VI7  v7  VI7  vi  VI7  VI7

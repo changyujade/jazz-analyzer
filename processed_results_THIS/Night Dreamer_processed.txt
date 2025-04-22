@@ -1,0 +1,10 @@
+Section: A
+[['Gmaj7', 'Bb7/F'], ['Ebmaj7', 'D7#5#9'], ['Gmaj7', 'Bb7/F'], ['Ebmaj7', 'D7#5#9'], ['Gmaj7', 'Bb7/F'], ['Ebmaj7', 'D7#5#9'], ['Ebm7'], ['Ab9'], ['E13sus'], ['E13sus'], ['F13sus'], ['F13sus'], ['Gmaj7', 'Bb7/F'], ['Ebmaj7', 'D7#5#9'], ['Gmaj7', 'Bb7/F'], ['Ebmaj7', 'D7#5#9']]
+Roman Numerals:
+ IM7  ♭III43  ♭VIM7  V+7  IM7  ♭III43  ♭VIM7  V+7  IM7  ♭III43  ♭VIM7  V+7  ♭vi7  ♭II9  VI  VI  ♭VII  ♭VII  IM7  ♭III43  ♭VIM7  V+7  IM7  ♭III43  ♭VIM7  V+7
+Is it Diatonic?
+ IM7  ♭III43, !D  ♭VIM7, !D  V+7, !D  IM7  ♭III43, !D  ♭VIM7, !D  V+7, !D  IM7  ♭III43, !D  ♭VIM7, !D  V+7, !D  ♭vi7, !D  ♭II9, !D  VI, !D  VI, !D  ♭VII, !D  ♭VII, !D  IM7  ♭III43, !D  ♭VIM7, !D  V+7, !D  IM7  ♭III43, !D  ♭VIM7, !D  V+7, !D
+Is it Borrowed?
+ IM7  III43, minor  VIM7, minor  V+7  IM7  III43, minor  VIM7, minor  V+7  IM7  III43, minor  VIM7, minor  V+7  ♭vi7  II9, phrygian  VI  VI  ♭VII  ♭VII  IM7  III43, minor  VIM7, minor  V+7  IM7  III43, minor  VIM7, minor  V+7
+Check if it has secondary dominants:
+ IM7  ♭III43 (V43/♭VI)  ♭VIM7  V+7  IM7  ♭III43 (V43/♭VI)  ♭VIM7  V+7  IM7  ♭III43 (V43/♭VI)  ♭VIM7  V+7  ♭vi7  ♭II9  VI  VI  ♭VII  ♭VII  IM7  ♭III43 (V43/♭VI)  ♭VIM7  V+7  IM7  ♭III43 (V43/♭VI)  ♭VIM7  V+7

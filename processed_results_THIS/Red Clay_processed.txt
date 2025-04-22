@@ -1,0 +1,10 @@
+Section: None
+[['C#m7'], ['Bm7', 'E7'], ['Amaj7'], ['D#m7b5', 'G#7b9']]
+Roman Numerals:
+ i7  vii7  III7  VIM7  iiø7  V7
+Is it Diatonic?
+ i7  vii7, !D  III7  VIM7  iiø7  V7, !D
+Is it Borrowed?
+ i7  vii7, phrygian  III7  VIM7  iiø7  V7, major
+Check if it has secondary dominants:
+ i7  vii7  III7 (V7/VI)  VIM7  iiø7  V7

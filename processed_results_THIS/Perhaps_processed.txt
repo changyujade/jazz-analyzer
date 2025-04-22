@@ -1,0 +1,10 @@
+Section: None
+[['Dm7', 'G7'], ['C7']]
+Roman Numerals:
+ ii7  V7  I7
+Is it Diatonic?
+ ii7  V7  I7
+Is it Borrowed?
+ ii7  V7  I7
+Check if it has secondary dominants:
+ ii7  V7  I7

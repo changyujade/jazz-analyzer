@@ -1,0 +1,10 @@
+Section: None
+[['Ebmaj7'], ['Ebmaj7', 'Bb7b9'], ['Ebmaj7'], ['Ebmaj7', 'Bb7b9'], ['Ebmaj7'], ['Ebmaj7', 'Bb7b9'], ['Eb7'], ['Eb7', 'Eb7b9']]
+Roman Numerals:
+ IM7  IM7  V7  IM7  IM7  V7  IM7  IM7  V7  I7  I7  I7
+Is it Diatonic?
+ IM7  IM7  V7  IM7  IM7  V7  IM7  IM7  V7  I7  I7  I7
+Is it Borrowed?
+ IM7  IM7  V7  IM7  IM7  V7  IM7  IM7  V7  I7  I7  I7
+Check if it has secondary dominants:
+ IM7  IM7  V7  IM7  IM7  V7  IM7  IM7  V7  I7  I7  I7

@@ -1,0 +1,30 @@
+Section: i
+[['C#m9'], ['C#m9'], ['C9#11'], ['C9#11']]
+Roman Numerals:
+ i9  i9  ♭I9  ♭I9
+Is it Diatonic?
+ i9  i9  ♭I9, !D  ♭I9, !D
+Is it Borrowed?
+ i9  i9  ♭I9  ♭I9
+Check if it has secondary dominants:
+ i9  i9  ♭I9  ♭I9
+Section: A
+[['C#m9'], ['C#m9'], ['C9#11'], ['C9#11'], ['C#m9'], ['C#m9'], ['C9#11'], ['C9#11'], ['F#m7'], ['F#m7'], ['Gadd9'], ['G/A', 'G/A', 'A/B', 'C#m9'], ['C#m9'], ['C#m9']]
+Roman Numerals:
+ i9  i9  ♭I9  ♭I9  i9  i9  ♭I9  ♭I9  iv7  iv7  ♭V  ♭V  ♭V  VI  i9  i9  i9
+Is it Diatonic?
+ i9  i9  ♭I9, !D  ♭I9, !D  i9  i9  ♭I9, !D  ♭I9, !D  iv7  iv7  ♭V, !D  ♭V, !D  ♭V, !D  VI  i9  i9  i9
+Is it Borrowed?
+ i9  i9  ♭I9  ♭I9  i9  i9  ♭I9  ♭I9  iv7  iv7  V, locrian  V, locrian  V, locrian  VI  i9  i9  i9
+Check if it has secondary dominants:
+ i9  i9  ♭I9  ♭I9  i9  i9  ♭I9  ♭I9  iv7  iv7  ♭V  ♭V  ♭V  VI  i9  i9  i9
+Section: B
+[['F#m9'], ['E/G#', 'Amaj7'], ['C/D'], ['C/D'], ['Gmaj9', 'Bb9'], ['Ebmaj9', 'Amaj7/B'], ['E69'], ['E69'], ['Gmaj7/A'], ['Dmaj9'], ['Amaj7/B'], ['Emaj9'], ['Bmaj7/C#'], ['F#maj9'], ['F#m9'], ['Amaj7/B']]
+Roman Numerals:
+ iv9  III6  VIM7  ♭I  ♭I  ♭VM9  ♭VII9  ♭IIIM9  VIM7  III  III  ♭VM7  ♭IIM9  VIM7  IIIM9  VIIM7  IVM9  iv9  VIM7
+Is it Diatonic?
+ iv9  III6  VIM7  ♭I, !D  ♭I, !D  ♭VM9, !D  ♭VII9, !D  ♭IIIM9, !D  VIM7  III  III  ♭VM7, !D  ♭IIM9, !D  VIM7  IIIM9  VIIM7  IVM9, !D  iv9  VIM7
+Is it Borrowed?
+ iv9  III6  VIM7  ♭I  ♭I  VM9, locrian  ♭VII9  ♭IIIM9  VIM7  III  III  VM7, locrian  IIM9, phrygian  VIM7  IIIM9  VIIM7  IVM9, major  iv9  VIM7
+Check if it has secondary dominants:
+ iv9  III6 (V6/VI)  VIM7  ♭I  ♭I  ♭VM9  ♭VII9 (V9/♭III)  ♭IIIM9  VIM7  III  III  ♭VM7  ♭IIM9  VIM7  IIIM9  VIIM7  IVM9  iv9  VIM7

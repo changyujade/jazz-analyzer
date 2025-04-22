@@ -1,0 +1,30 @@
+Section: A
+[['Dm7b5'], ['Dm7b5/G', 'G7b9'], ['Cm7'], ['Abmaj7'], ['Dm7b5'], ['Dm7b5/G', 'G7b9'], ['Cm7'], ['C7#9'], ['Fm7'], ['Bb7sus', 'Bb7'], ['Ebmaj7'], ['Abmaj7'], ['Dm7b5'], ['G7sus', 'G13'], ['Cmaj7#5'], ['Fmaj7#11']]
+Roman Numerals:
+ iiø7  iiø7  V7  i7  VIM7  iiø7  iiø7  V7  i7  I7  iv7  VII  VII7  IIIM7  VIM7  iiø7  V  V13  IM+7  IVM7
+Is it Diatonic?
+ iiø7  iiø7  V7, !D  i7  VIM7  iiø7  iiø7  V7, !D  i7  I7, !D  iv7  VII, !D  VII7  IIIM7  VIM7  iiø7  V, !D  V13, !D  IM+7, !D  IVM7, !D
+Is it Borrowed?
+ iiø7  iiø7  V7, major  i7  VIM7  iiø7  iiø7  V7, major  i7  I7, major  iv7  VII  VII7  IIIM7  VIM7  iiø7  V  V13, major  IM+7  IVM7, major
+Check if it has secondary dominants:
+ iiø7  iiø7  V7  i7  VIM7  iiø7  iiø7  V7  i7  I7 (V7/iv)  iv7  VII  VII7 (V7/III)  IIIM7 (VM7/VI)  VIM7  iiø7  V  V13  IM+7  IVM7
+Section: B
+[['Bm7b5'], ['E7b9'], ['Am7'], ['Am7/G'], ['F#m7b5'], ['B7b9'], ['Em7'], ['Em7/D'], ['C#m7b5'], ['F#7b9'], ['Bm7'], ['Bm7/A'], ['G#m7b5'], ['C#7b9'], ['F#maj7'], ['F#7', 'Ebm7']]
+Roman Numerals:
+ ♯viiø7  ♯III7  ♯vi7  ♯vi42  ♯ivø7  ♯VII7  ♯iii7  ♯iii42  ♯iø7  ♯IV7  ♯vii7  ♯vii42  ♯vø7  ♯I7  ♯IVM7  ♯IV7  iii7
+Is it Diatonic?
+ ♯viiø7, !D  ♯III7, !D  ♯vi7, !D  ♯vi42, !D  ♯ivø7, !D  ♯VII7, !D  ♯iii7, !D  ♯iii42, !D  ♯iø7, !D  ♯IV7, !D  ♯vii7, !D  ♯vii42, !D  ♯vø7, !D  ♯I7, !D  ♯IVM7, !D  ♯IV7, !D  iii7, !D
+Is it Borrowed?
+ viiø7, major  ♯III7  vi7, major  vi42, major  ivø7, lydian  ♯VII7  iii7, major  iii42, major  ♯iø7  ♯IV7  vii7, lydian  vii42, lydian  ♯vø7  ♯I7  ♯IVM7  ♯IV7  iii7, locrian
+Check if it has secondary dominants:
+ ♯viiø7  ♯III7 (V7/♯vi)  ♯vi7  ♯vi42  ♯ivø7  ♯VII7 (V7/♯iii)  ♯iii7  ♯iii42  ♯iø7  ♯IV7 (V7/♯vii)  ♯vii7  ♯vii42  ♯vø7  ♯I7 (V7/♯IV)  ♯IVM7  ♯IV7  iii7
+Section: None
+[['Em7/A', 'A7b9'], ['Dm/maj7', 'Dm7b5'], ['Dm7b5/G', 'G7b9'], ['Cm7'], ['Cm7']]
+Roman Numerals:
+ ♯iii7  ♯VI7  ii  iiø7  iiø7  V7  i7  i7
+Is it Diatonic?
+ ♯iii7, !D  ♯VI7, !D  ii, !D  iiø7  iiø7  V7, !D  i7  i7
+Is it Borrowed?
+ iii7, major  ♯VI7  ii, major  iiø7  iiø7  V7, major  i7  i7
+Check if it has secondary dominants:
+ ♯iii7  ♯VI7 (V7/ii)  ii  iiø7  iiø7  V7  i7  i7

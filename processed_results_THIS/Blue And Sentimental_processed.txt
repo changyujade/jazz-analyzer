@@ -1,0 +1,30 @@
+Section: B
+[['Eb', 'Db7', 'C9', 'Gb9'], ['F9', 'Bb13'], ['F9', 'Bb13'], ['Gm7', 'C7', 'Fm7', 'Bb7'], ['Eb', 'Db7', 'C9', 'Gb9'], ['F9', 'Bb13'], ['F9', 'Bb13'], ['Eb9', 'Eb9', 'Bbm7', 'Eb9']]
+Roman Numerals:
+ I  ♭VII7  VI9  ♭III9  II9  V13  II9  V13  iii7  VI7  ii7  V7  I  ♭VII7  VI9  ♭III9  II9  V13  II9  V13  I9  I9  v7  I9
+Is it Diatonic?
+ I  ♭VII7, !D  VI9, !D  ♭III9, !D  II9, !D  V13  II9, !D  V13  iii7  VI7, !D  ii7  V7  I  ♭VII7, !D  VI9, !D  ♭III9, !D  II9, !D  V13  II9, !D  V13  I9  I9  v7, !D  I9
+Is it Borrowed?
+ I  VII7, minor  VI9  III9, minor  II9, lydian  V13  II9, lydian  V13  iii7  VI7  ii7  V7  I  VII7, minor  VI9  III9, minor  II9, lydian  V13  II9, lydian  V13  I9  I9  v7, minor  I9
+Check if it has secondary dominants:
+ I  ♭VII7  VI9  ♭III9  II9 (V9/V)  V13  II9 (V9/V)  V13  iii7  VI7 (V7/ii)  ii7  V7  I  ♭VII7  VI9  ♭III9  II9 (V9/V)  V13  II9 (V9/V)  V13  I9  I9  v7  I9
+Section: C
+[['Ab6', 'A07'], ['Eb6/Bb', 'Bb7', 'Eb9', 'Eb9'], ['Ab6', 'A07'], ['Eb6/Bb', 'C7', 'Fm7', 'Bb7']]
+Roman Numerals:
+ IV  ♯ivø7  I64  V7  I9  I9  IV  ♯ivø7  I64  VI7  ii7  V7
+Is it Diatonic?
+ IV  ♯ivø7, !D  I64  V7  I9  I9  IV  ♯ivø7, !D  I64  VI7, !D  ii7  V7
+Is it Borrowed?
+ IV  ivø7, lydian  I64  V7  I9  I9  IV  ivø7, lydian  I64  VI7  ii7  V7
+Check if it has secondary dominants:
+ IV  ♯ivø7  I64  V7  I9  I9 (V9/IV)  IV  ♯ivø7  I64  VI7 (V7/ii)  ii7  V7
+Section: None
+[['Eb', 'Db7', 'C9', 'Gb9'], ['F9', 'Bb13'], ['F9', 'Bb13'], ['Eb9', 'D9', 'Db9', 'C9'], ['F9', 'Bb13'], ['Eb6', 'Eb6', 'Fm7', 'Bb7']]
+Roman Numerals:
+ I  ♭VII7  VI9  ♭III9  II9  V13  II9  V13  I9  VII9  ♭VII9  VI9  II9  V13  I  I  ii7  V7
+Is it Diatonic?
+ I  ♭VII7, !D  VI9, !D  ♭III9, !D  II9, !D  V13  II9, !D  V13  I9  VII9, !D  ♭VII9, !D  VI9, !D  II9, !D  V13  I  I  ii7  V7
+Is it Borrowed?
+ I  VII7, minor  VI9  III9, minor  II9, lydian  V13  II9, lydian  V13  I9  VII9  VII9, minor  VI9  II9, lydian  V13  I  I  ii7  V7
+Check if it has secondary dominants:
+ I  ♭VII7  VI9  ♭III9  II9 (V9/V)  V13  II9 (V9/V)  V13  I9  VII9  ♭VII9  VI9 (V9/II)  II9 (V9/V)  V13  I  I  ii7  V7

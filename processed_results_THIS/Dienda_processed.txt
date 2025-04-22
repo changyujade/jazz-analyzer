@@ -1,0 +1,40 @@
+Section: i
+[['Gm11', 'Fadd9/A'], ['Gbmaj7#11'], ['Gm11', 'Fadd9/A'], ['F/Db'], ['F/Db']]
+Roman Numerals:
+ v11  IV6  ♭VM7  v11  IV6  IV  IV
+Is it Diatonic?
+ v11, !D  IV6  ♭VM7, !D  v11, !D  IV6  IV  IV
+Is it Borrowed?
+ v11, minor  IV6  VM7, locrian  v11, minor  IV6  IV  IV
+Check if it has secondary dominants:
+ v11  IV6  ♭VM7  v11  IV6  IV  IV
+Section: A
+[['F/Db']]
+Roman Numerals:
+ IV
+Is it Diatonic?
+ IV
+Is it Borrowed?
+ IV
+Check if it has secondary dominants:
+ IV
+Section: B
+[['Fm9'], ['Db13#11'], ['Dm9'], ['Dm9/C'], ['Gb/Bb', 'Bbm'], ['Fm11/Ab'], ['Gm11'], ['Gbmaj7#11'], ['Bbmaj7#5/A'], ['Bbmaj7#11/D'], ['C/Ab'], ['Dbmaj7'], ['Gm11', 'Fadd9/A'], ['Gbmaj7#11'], ['Gm11', 'Fadd9/A'], ['F/Db'], ['F/Db']]
+Roman Numerals:
+ iv9  ♭II13  ii9  ii9  ♭V6  ♭vii  iv11  v11  ♭VM7  ♭VIIM+42  ♭VIIM65  I  ♭IIM7  v11  IV6  ♭VM7  v11  IV6  IV  IV
+Is it Diatonic?
+ iv9, !D  ♭II13, !D  ii9  ii9  ♭V6, !D  ♭vii, !D  iv11, !D  v11, !D  ♭VM7, !D  ♭VIIM+42, !D  ♭VIIM65, !D  I  ♭IIM7, !D  v11, !D  IV6  ♭VM7, !D  v11, !D  IV6  IV  IV
+Is it Borrowed?
+ iv9, minor  II13, phrygian  ii9  ii9  V6, locrian  vii, phrygian  iv11, minor  v11, minor  VM7, locrian  ♭VIIM+42  VIIM65, minor  I  IIM7, phrygian  v11, minor  IV6  VM7, locrian  v11, minor  IV6  IV  IV
+Check if it has secondary dominants:
+ iv9  ♭II13  ii9  ii9  ♭V6  ♭vii  iv11  v11  ♭VM7  ♭VIIM+42  ♭VIIM65  I  ♭IIM7  v11  IV6  ♭VM7  v11  IV6  IV  IV
+Section: None
+[['Gm11', 'Fadd9/A'], ['Gbmaj7#11'], ['Gm11', 'Fadd9/A'], ['F/Db']]
+Roman Numerals:
+ v11  IV6  ♭VM7  v11  IV6  IV
+Is it Diatonic?
+ v11, !D  IV6  ♭VM7, !D  v11, !D  IV6  IV
+Is it Borrowed?
+ v11, minor  IV6  VM7, locrian  v11, minor  IV6  IV
+Check if it has secondary dominants:
+ v11  IV6  ♭VM7  v11  IV6  IV

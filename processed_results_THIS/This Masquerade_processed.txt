@@ -1,0 +1,40 @@
+Section: i
+[['Fm7'], ['Bb7'], ['Fm7'], ['Bb7']]
+Roman Numerals:
+ i7  IV7  i7  IV7
+Is it Diatonic?
+ i7  IV7, !D  i7  IV7, !D
+Is it Borrowed?
+ i7  IV7, major  i7  IV7, major
+Check if it has secondary dominants:
+ i7  IV7  i7  IV7
+Section: A
+[['Fm'], ['Fm/maj7'], ['Fm7'], ['Bb7'], ['Fm7'], ['Db7'], ['Gm7b5'], ['C7#9'], ['Fm'], ['Fm/maj7'], ['Fm7'], ['Bb7'], ['Db7'], ['Gm7b5', 'C7b9'], ['Fm'], ['Fm', 'Fm', 'Em7', 'A7']]
+Roman Numerals:
+ i  i  i7  IV7  i7  VI7  iiø7  V7  i  i  i7  IV7  VI7  iiø7  V7  i  i  i  ♯vii7  ♯III7
+Is it Diatonic?
+ i  i  i7  IV7, !D  i7  VI7  iiø7  V7, !D  i  i  i7  IV7, !D  VI7  iiø7  V7, !D  i  i  i  ♯vii7, !D  ♯III7, !D
+Is it Borrowed?
+ i  i  i7  IV7, major  i7  VI7  iiø7  V7, major  i  i  i7  IV7, major  VI7  iiø7  V7, major  i  i  i  vii7, lydian  ♯III7
+Check if it has secondary dominants:
+ i  i  i7  IV7  i7  VI7  iiø7  V7  i  i  i7  IV7  VI7  iiø7  V7  i  i  i  ♯vii7  ♯III7
+Section: B
+[['Ebm7'], ['Ab7'], ['Dbmaj7'], ['Bb7b13'], ['Ebm7'], ['Ab7'], ['Dbmaj7'], ['Dbmaj7'], ['Dm7'], ['G13', 'G7b13'], ['Cmaj7'], ['Cmaj7'], ['Gm7'], ['G13', 'G7b13'], ['C9sus'], ['Gb7#11']]
+Roman Numerals:
+ vii7  III7  VIM7  IV7  vii7  III7  VIM7  VIM7  ♯vi7  II13  II7  VM7  VM7  ii7  II13  II7  V  ♭II7
+Is it Diatonic?
+ vii7, !D  III7  VIM7  IV7, !D  vii7, !D  III7  VIM7  VIM7  ♯vi7, !D  II13, !D  II7, !D  VM7, !D  VM7, !D  ii7, !D  II13, !D  II7, !D  V, !D  ♭II7, !D
+Is it Borrowed?
+ vii7, phrygian  III7  VIM7  IV7, major  vii7, phrygian  III7  VIM7  VIM7  vi7, major  II13, lydian  II7, lydian  VM7, major  VM7, major  ii7, major  II13, lydian  II7, lydian  V  II7, phrygian
+Check if it has secondary dominants:
+ vii7  III7 (V7/VI)  VIM7  IV7 (V7/vii)  vii7  III7 (V7/VI)  VIM7  VIM7  ♯vi7  II13  II7 (V7/V)  VM7  VM7  ii7  II13  II7  V  ♭II7
+Section: None
+[['Fm7'], ['Bb7'], ['Fm7'], ['B7']]
+Roman Numerals:
+ i7  IV7  i7  ♯IV7
+Is it Diatonic?
+ i7  IV7, !D  i7  ♯IV7, !D
+Is it Borrowed?
+ i7  IV7, major  i7  ♯IV7
+Check if it has secondary dominants:
+ i7  IV7  i7  ♯IV7

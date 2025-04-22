@@ -1,0 +1,10 @@
+Section: A
+[['Cmaj7'], ['C#07'], ['Dm7'], ['G7'], ['Cmaj7'], ['C#07'], ['Dm7b5'], ['G7'], ['Fmaj7'], ['Fm6']]
+Roman Numerals:
+ IM7  ♯iø7  ii7  V7  IM7  ♯iø7  iiø7  V7  IVM7  iv
+Is it Diatonic?
+ IM7  ♯iø7, !D  ii7  V7  IM7  ♯iø7, !D  iiø7, !D  V7  IVM7  iv, !D
+Is it Borrowed?
+ IM7  ♯iø7  ii7  V7  IM7  ♯iø7  iiø7, minor  V7  IVM7  iv, minor
+Check if it has secondary dominants:
+ IM7  ♯iø7 (viiø7/ii)  ii7  V7  IM7  ♯iø7  iiø7  V7  IVM7  iv

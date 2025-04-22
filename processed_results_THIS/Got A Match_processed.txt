@@ -1,0 +1,10 @@
+Section: None
+[['Dm7'], ['A7/C#'], ['Dm7/C'], ['G7/B'], ['Gm7'], ['D7/F#'], ['Gm7/F'], ['C7/E'], ['Em7', 'A7'], ['Fm7', 'Bb7'], ['Ebmaj7'], ['Em7', 'A7'], ['Dm7'], ['Em7b5', 'A7#9'], ['Dm7'], ['A7']]
+Roman Numerals:
+ i7  V65  i42  IV65  iv7  I65  iv42  VII65  ii7  V7  iii7  VI7  ♭IIM7  ii7  V7  i7  iiø7  V7  i7  V7
+Is it Diatonic?
+ i7  V65, !D  i42  IV65, !D  iv7  I65, !D  iv42  VII65  ii7, !D  V7, !D  iii7, !D  VI7  ♭IIM7, !D  ii7, !D  V7, !D  i7  iiø7  V7, !D  i7  V7, !D
+Is it Borrowed?
+ i7  V65, major  i42  IV65, major  iv7  I65, major  iv42  VII65  ii7, major  V7, major  iii7, locrian  VI7  IIM7, phrygian  ii7, major  V7, major  i7  iiø7  V7, major  i7  V7, major
+Check if it has secondary dominants:
+ i7  V65  i42  IV65  iv7  I65 (V65/iv)  iv42  VII65  ii7  V7  iii7  VI7 (V7/♭II)  ♭IIM7  ii7  V7  i7  iiø7  V7  i7  V7

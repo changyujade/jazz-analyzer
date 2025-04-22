@@ -1,0 +1,30 @@
+Section: A
+[['Bbm7'], ['Bbm7'], ['Gbmaj7'], ['Gbmaj7'], ['Bbm7'], ['Bbm7'], ['Gbmaj7'], ['Gbmaj7'], ['Bbm7'], ['Bbm7'], ['Gbmaj7'], ['Gbmaj7'], ['F7#9'], ['F7#9'], ['Ab', 'Bbm7'], ['Bbm7']]
+Roman Numerals:
+ i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  V7  V7  VII  i7  i7
+Is it Diatonic?
+ i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  V7, !D  V7, !D  VII  i7  i7
+Is it Borrowed?
+ i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  V7, major  V7, major  VII  i7  i7
+Check if it has secondary dominants:
+ i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  i7  i7  VIM7  VIM7  V7  V7  VII  i7  i7
+Section: B
+[['Ebm7'], ['Ebm7'], ['Dbmaj7'], ['Dbmaj7'], ['Bmaj7'], ['Bmaj7'], ['Bbm7'], ['Bbm7'], ['Ab7sus'], ['Ab7sus'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['F7#9'], ['F7#9'], ['Ab', 'Bbm7'], ['Bbm7']]
+Roman Numerals:
+ iv7  iv7  IIIM7  IIIM7  ♯IM7  ♯IM7  i7  i7  VII  VII  VIM7  VIM7  V7  V7  VII  i7  i7
+Is it Diatonic?
+ iv7  iv7  IIIM7  IIIM7  ♯IM7, !D  ♯IM7, !D  i7  i7  VII, !D  VII, !D  VIM7  VIM7  V7, !D  V7, !D  VII  i7  i7
+Is it Borrowed?
+ iv7  iv7  IIIM7  IIIM7  ♯IM7  ♯IM7  i7  i7  VII  VII  VIM7  VIM7  V7, major  V7, major  VII  i7  i7
+Check if it has secondary dominants:
+ iv7  iv7  IIIM7  IIIM7  ♯IM7  ♯IM7  i7  i7  VII  VII  VIM7  VIM7  V7  V7  VII  i7  i7
+Section: None
+[['Bbm7'], ['Bbm7'], ['Db/Eb', 'Eb/F'], ['Gb6/Ab', 'F6/G'], ['Db/Eb', 'Eb/F'], ['Bb/C', 'Ab/Bb'], ['D/E', 'E/F#'], ['G/A', 'A/B'], ['C/D', 'D/E'], ['F/G'], ['G/A', 'Ab/Bb'], ['Ab/Bb']]
+Roman Numerals:
+ i7  i7  III  IV  VI  V  III  IV  I  VII  ♯III  ♯IV  ♯VI  ♯VII  II  ♯III  V  ♯VI  VII  VII
+Is it Diatonic?
+ i7  i7  III  IV, !D  VI  V, !D  III  IV, !D  I, !D  VII  ♯III, !D  ♯IV, !D  ♯VI, !D  ♯VII, !D  II, !D  ♯III, !D  V, !D  ♯VI, !D  VII  VII
+Is it Borrowed?
+ i7  i7  III  IV, major  VI  V, major  III  IV, major  I, major  VII  ♯III  ♯IV  ♯VI  ♯VII  II, lydian  ♯III  V, major  ♯VI  VII  VII
+Check if it has secondary dominants:
+ i7  i7  III  IV  VI  V  III  IV  I  VII  ♯III  ♯IV  ♯VI  ♯VII  II  ♯III  V  ♯VI  VII  VII

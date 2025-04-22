@@ -1,0 +1,20 @@
+Section: A
+[['Fmaj7/A'], ['Dm7'], ['Gm7'], ['C7'], ['A7/G'], ['D7/F#'], ['G7/F'], ['C7/E'], ['F7/Eb'], ['Bb6/D'], ['Gm7b5/Db'], ['C7'], ['Am7'], ['Dm7'], ['Bm7'], ['E7'], ['Am7'], ['F7'], ['Bbmaj7'], ['A7alt'], ['Dm7'], ['Dm7'], ['G7'], ['G#07'], ['Am7/C'], ['Ab07/C'], ['Gm7/C'], ['C7'], ['F6'], ['Dm7'], ['Gm7'], ['C7']]
+Roman Numerals:
+ IM65  vi7  ii7  V7  III42  VI65  II42  V65  I42  IV6  iiø43  V7  iii7  vi7  ♯iv7  VII7  iii7  I7  IVM7  III+7  vi7  vi7  II7  ♯iiø7  iii65  ♭iiiø7  ii7  V7  I  vi7  ii7  V7
+Is it Diatonic?
+ IM65  vi7  ii7  V7  III42, !D  VI65, !D  II42, !D  V65  I42  IV6  iiø43, !D  V7  iii7  vi7  ♯iv7, !D  VII7, !D  iii7  I7  IVM7  III+7, !D  vi7  vi7  II7, !D  ♯iiø7, !D  iii65  ♭iiiø7, !D  ii7  V7  I  vi7  ii7  V7
+Is it Borrowed?
+ IM65  vi7  ii7  V7  III42  VI65  II42, lydian  V65  I42  IV6  iiø43, minor  V7  iii7  vi7  ♯iv7  VII7  iii7  I7  IVM7  III+7  vi7  vi7  II7, lydian  ♯iiø7  iii65  ♭iiiø7  ii7  V7  I  vi7  ii7  V7
+Check if it has secondary dominants:
+ IM65  vi7  ii7  V7  III42 (V42/VI)  VI65 (V65/II)  II42 (V42/V)  V65  I42 (V42/IV)  IV6  iiø43  V7  iii7  vi7  ♯iv7  VII7 (V7/iii)  iii7  I7 (V7/IV)  IVM7  III+7  vi7  vi7  II7  ♯iiø7 (viiø7/iii)  iii65  ♭iiiø7  ii7  V7  I  vi7  ii7  V7
+Section: B
+[['Gm7'], ['C7'], ['Am7'], ['D7'], ['Gm7'], ['A7'], ['Dm7'], ['Cm7'], ['Bbmaj7'], ['A7'], ['Dm7'], ['G7'], ['Abmaj7'], ['Dbmaj7'], ['Gm7'], ['C7']]
+Roman Numerals:
+ ii7  V7  iii7  VI7  ii7  III7  vi7  v7  IVM7  III7  vi7  II7  ♭IIIM7  ♭VIM7  ii7  V7
+Is it Diatonic?
+ ii7  V7  iii7  VI7, !D  ii7  III7, !D  vi7  v7, !D  IVM7  III7, !D  vi7  II7, !D  ♭IIIM7, !D  ♭VIM7, !D  ii7  V7
+Is it Borrowed?
+ ii7  V7  iii7  VI7  ii7  III7  vi7  v7, minor  IVM7  III7  vi7  II7, lydian  IIIM7, minor  VIM7, minor  ii7  V7
+Check if it has secondary dominants:
+ ii7  V7  iii7  VI7 (V7/ii)  ii7  III7 (V7/vi)  vi7  v7  IVM7  III7 (V7/vi)  vi7  II7  ♭IIIM7 (VM7/♭VI)  ♭VIM7  ii7  V7

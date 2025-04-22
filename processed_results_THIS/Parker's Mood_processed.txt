@@ -1,0 +1,10 @@
+Section: None
+[['Bb7'], ['Eb7'], ['Bb7'], ['Bb7'], ['Eb7'], ['Eb7'], ['Bb7'], ['Bb7'], ['Cm7'], ['F7'], ['Bb7'], ['F7']]
+Roman Numerals:
+ I7  IV7  I7  I7  IV7  IV7  I7  I7  ii7  V7  I7  V7
+Is it Diatonic?
+ I7  IV7  I7  I7  IV7  IV7  I7  I7  ii7  V7  I7  V7
+Is it Borrowed?
+ I7  IV7  I7  I7  IV7  IV7  I7  I7  ii7  V7  I7  V7
+Check if it has secondary dominants:
+ I7 (V7/IV)  IV7  I7  I7 (V7/IV)  IV7  IV7  I7  I7  ii7  V7  I7  V7

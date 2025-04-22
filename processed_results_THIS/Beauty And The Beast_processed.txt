@@ -1,0 +1,20 @@
+Section: i
+[['F13'], ['F13'], ['F13'], ['F13'], ['F13'], ['F13'], ['F13'], ['F13', 'E7#9']]
+Roman Numerals:
+ I13  I13  I13  I13  I13  I13  I13  I13  VII7
+Is it Diatonic?
+ I13  I13  I13  I13  I13  I13  I13  I13  VII7, !D
+Is it Borrowed?
+ I13  I13  I13  I13  I13  I13  I13  I13  VII7
+Check if it has secondary dominants:
+ I13  I13  I13  I13  I13  I13  I13  I13  VII7
+Section: A
+[['F13'], ['F13'], ['F13'], ['F13']]
+Roman Numerals:
+ I13  I13  I13  I13
+Is it Diatonic?
+ I13  I13  I13  I13
+Is it Borrowed?
+ I13  I13  I13  I13
+Check if it has secondary dominants:
+ I13  I13  I13  I13

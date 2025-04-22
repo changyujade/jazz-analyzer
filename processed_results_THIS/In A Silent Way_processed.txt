@@ -1,0 +1,10 @@
+Section: None
+[['E'], ['D6/E'], ['D6/E'], ['Fmaj7#11/E'], ['E'], ['E', 'G#m7'], ['Amaj7'], ['G#m7'], ['G#m7'], ['Dmaj7/E'], ['Dmaj7/E', 'D', 'C#m7', 'C#m7'], ['Bm7', 'E7'], ['C#m7', 'C/G#'], ['A/F'], ['A/F', 'Dmaj9'], ['B/C#'], ['B/C#', 'Bm6/C#'], ['Bm7/C#'], ['Bm7/C#'], ['C/C#'], ['C#m7'], ['E', 'G#m7'], ['Amaj7'], ['G#m7'], ['G#m7'], ['Dmaj7/E'], ['Dmaj7/E', 'D', 'C#m7', 'C#m7'], ['Bm7', 'E7'], ['C#m7', 'C/G#'], ['A/F'], ['A/F', 'Dmaj9'], ['C#m11']]
+Roman Numerals:
+ III  ♭II  ♭II  ♭IVM42  III  III  v7  VIM7  v7  v7  ♭IIM7  ♭IIM7  ♭II  i7  i7  vii7  III7  i7  ♭I  VI  VI  ♭IIM9  VII  VII  vii  vii7  vii7  ♭I  i7  III  v7  VIM7  v7  v7  ♭IIM7  ♭IIM7  ♭II  i7  i7  vii7  III7  i7  ♭I  VI  VI  ♭IIM9  i11
+Is it Diatonic?
+ III  ♭II, !D  ♭II, !D  ♭IVM42, !D  III  III  v7  VIM7  v7  v7  ♭IIM7, !D  ♭IIM7, !D  ♭II, !D  i7  i7  vii7, !D  III7  i7  ♭I, !D  VI  VI  ♭IIM9, !D  VII  VII  vii, !D  vii7, !D  vii7, !D  ♭I, !D  i7  III  v7  VIM7  v7  v7  ♭IIM7, !D  ♭IIM7, !D  ♭II, !D  i7  i7  vii7, !D  III7  i7  ♭I, !D  VI  VI  ♭IIM9, !D  i11
+Is it Borrowed?
+ III  II, phrygian  II, phrygian  ♭IVM42  III  III  v7  VIM7  v7  v7  IIM7, phrygian  IIM7, phrygian  II, phrygian  i7  i7  vii7, phrygian  III7  i7  ♭I  VI  VI  IIM9, phrygian  VII  VII  vii, phrygian  vii7, phrygian  vii7, phrygian  ♭I  i7  III  v7  VIM7  v7  v7  IIM7, phrygian  IIM7, phrygian  II, phrygian  i7  i7  vii7, phrygian  III7  i7  ♭I  VI  VI  IIM9, phrygian  i11
+Check if it has secondary dominants:
+ III  ♭II  ♭II  ♭IVM42  III  III  v7  VIM7  v7  v7  ♭IIM7  ♭IIM7  ♭II  i7  i7  vii7  III7  i7  ♭I  VI  VI (V/♭II)  ♭IIM9  VII  VII  vii  vii7  vii7  ♭I  i7  III  v7  VIM7  v7  v7  ♭IIM7  ♭IIM7  ♭II  i7  i7  vii7  III7  i7  ♭I  VI  VI (V/♭II)  ♭IIM9  i11

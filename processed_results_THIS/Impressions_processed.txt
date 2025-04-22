@@ -1,0 +1,20 @@
+Section: A
+[['Dm11'], ['Dm11'], ['Dm11'], ['Dm11'], ['Dm11'], ['Dm11'], ['Dm11'], ['Dm11']]
+Roman Numerals:
+ i11  i11  i11  i11  i11  i11  i11  i11
+Is it Diatonic?
+ i11  i11  i11  i11  i11  i11  i11  i11
+Is it Borrowed?
+ i11  i11  i11  i11  i11  i11  i11  i11
+Check if it has secondary dominants:
+ i11  i11  i11  i11  i11  i11  i11  i11
+Section: B
+[['Ebm11'], ['Ebm11'], ['Ebm11'], ['Ebm11'], ['Ebm11'], ['Ebm11'], ['Ebm11'], ['Ebm11']]
+Roman Numerals:
+ ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11
+Is it Diatonic?
+ ♭ii11, !D  ♭ii11, !D  ♭ii11, !D  ♭ii11, !D  ♭ii11, !D  ♭ii11, !D  ♭ii11, !D  ♭ii11, !D
+Is it Borrowed?
+ ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11
+Check if it has secondary dominants:
+ ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11  ♭ii11

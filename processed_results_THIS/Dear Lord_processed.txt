@@ -1,0 +1,20 @@
+Section: A
+[['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Em7'], ['Em7'], ['Em7'], ['Em7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Bm'], ['Bm/maj7'], ['Bm7'], ['Bm6'], ['Bm'], ['Bm/maj7'], ['Bm7'], ['Bm6'], ['Em7'], ['Em7'], ['A7sus'], ['A7sus'], ['A7sus'], ['A7sus'], ['A7#5'], ['A7#5'], ['Dmaj7'], ['Bm7'], ['Em7'], ['A7']]
+Roman Numerals:
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  vi  vi  vi7  vi  vi  vi  vi7  vi  ii7  ii7  V  V  V  V  V+7  V+7  IM7  vi7  ii7  V7
+Is it Diatonic?
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  vi  vi  vi7  vi  vi  vi  vi7  vi  ii7  ii7  V, !D  V, !D  V, !D  V, !D  V+7, !D  V+7, !D  IM7  vi7  ii7  V7
+Is it Borrowed?
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  vi  vi  vi7  vi  vi  vi  vi7  vi  ii7  ii7  V  V  V  V  V+7  V+7  IM7  vi7  ii7  V7
+Check if it has secondary dominants:
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  vi  vi  vi7  vi  vi  vi  vi7  vi  ii7  ii7  V  V  V  V  V+7  V+7  IM7  vi7  ii7  V7
+Section: B
+[['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Em7'], ['Em7'], ['Em7'], ['Em7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Dmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['Gmaj7'], ['F#m7'], ['F#m7'], ['Gmaj7'], ['Gmaj7'], ['Em7'], ['F#m7'], ['Gmaj7'], ['A7sus'], ['Bbmaj7'], ['Bbmaj7'], ['Dmaj7'], ['Dmaj7']]
+Roman Numerals:
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  iii7  iii7  IVM7  IVM7  ii7  iii7  IVM7  V  ♭VIM7  ♭VIM7  IM7  IM7
+Is it Diatonic?
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  iii7  iii7  IVM7  IVM7  ii7  iii7  IVM7  V, !D  ♭VIM7, !D  ♭VIM7, !D  IM7  IM7
+Is it Borrowed?
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  iii7  iii7  IVM7  IVM7  ii7  iii7  IVM7  V  VIM7, minor  VIM7, minor  IM7  IM7
+Check if it has secondary dominants:
+ IM7  IM7  IM7  IM7  ii7  ii7  ii7  ii7  IM7  IM7  IM7  IM7 (VM7/IV)  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  IVM7  iii7  iii7  IVM7  IVM7  ii7  iii7  IVM7  V  ♭VIM7  ♭VIM7  IM7  IM7

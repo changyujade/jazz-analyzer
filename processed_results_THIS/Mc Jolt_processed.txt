@@ -1,0 +1,10 @@
+Section: None
+[['Abm11'], ['Bb7b9b13'], ['Ebm7'], ['Gb7sus']]
+Roman Numerals:
+ iv11  V7  i7  III
+Is it Diatonic?
+ iv11  V7, !D  i7  III, !D
+Is it Borrowed?
+ iv11  V7, major  i7  III
+Check if it has secondary dominants:
+ iv11  V7  i7  III

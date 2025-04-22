@@ -1,0 +1,10 @@
+Section: None
+[['C7sus'], ['C7sus'], ['C7sus'], ['C7sus'], ['Eb7sus'], ['Eb7sus'], ['Eb7sus'], ['Eb7sus'], ['Ab7sus'], ['Ab7sus'], ['Ab7sus'], ['Ab7sus'], ['Gm7b5'], ['C7alt'], ['Fm7b5'], ['Bb7alt'], ['Ebmaj7'], ['Ebmaj7'], ['Dm7b5'], ['G7alt']]
+Roman Numerals:
+ VI  VI  VI  VI  I  I  I  I  IV  IV  IV  IV  iiiø7  VI+7  iiø7  V+7  IM7  IM7  viiø7  III+7
+Is it Diatonic?
+ VI, !D  VI, !D  VI, !D  VI, !D  I, !D  I, !D  I, !D  I, !D  IV, !D  IV, !D  IV, !D  IV, !D  iiiø7, !D  VI+7, !D  iiø7, !D  V+7, !D  IM7  IM7  viiø7  III+7, !D
+Is it Borrowed?
+ VI  VI  VI  VI  I  I  I  I  IV  IV  IV  IV  iiiø7, mixolydian  VI+7  iiø7, minor  V+7  IM7  IM7  viiø7  III+7
+Check if it has secondary dominants:
+ VI  VI  VI  VI  I  I  I  I  IV  IV  IV  IV  iiiø7  VI+7  iiø7  V+7  IM7  IM7  viiø7  III+7

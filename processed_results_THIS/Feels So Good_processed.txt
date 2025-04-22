@@ -1,0 +1,10 @@
+Section: None
+[['F', 'C/E'], ['Dm7'], ['Gm7'], ['C7', 'C7/Bb'], ['Am7'], ['Dm7'], ['Gm7'], ['Em7b5', 'A7#9'], ['Dm7'], ['Ebmaj9'], ['Dm7'], ['Ebmaj9'], ['F'], ['Ebmaj9'], ['Dm7', 'Dm/C'], ['Bbmaj7', 'F/A'], ['Gm7'], ['Gm', 'Am', 'Bb', 'B0'], ['C7sus'], ['F'], ['D7'], ['Gm7'], ['C7'], ['F'], ['D7'], ['Gm7'], ['C9sus']]
+Roman Numerals:
+ I  V6  vi7  ii7  V7  V42  iii7  vi7  ii7  viiø7  III7  vi7  ♭VIIM9  vi7  ♭VIIM9  I  ♭VIIM9  vi7  vi  IVM7  I6  ii7  ii  iii  IV  ♯iv°  V  I  VI7  ii7  V7  I  VI7  ii7  V
+Is it Diatonic?
+ I  V6  vi7  ii7  V7  V42  iii7  vi7  ii7  viiø7  III7, !D  vi7  ♭VIIM9, !D  vi7  ♭VIIM9, !D  I  ♭VIIM9, !D  vi7  vi  IVM7  I6  ii7  ii  iii  IV  ♯iv°, !D  V, !D  I  VI7, !D  ii7  V7  I  VI7, !D  ii7  V, !D
+Is it Borrowed?
+ I  V6  vi7  ii7  V7  V42  iii7  vi7  ii7  viiø7  III7  vi7  VIIM9, minor  vi7  VIIM9, minor  I  VIIM9, minor  vi7  vi  IVM7  I6  ii7  ii  iii  IV  iv°, lydian  V  I  VI7  ii7  V7  I  VI7  ii7  V
+Check if it has secondary dominants:
+ I  V6  vi7  ii7  V7  V42  iii7  vi7  ii7  viiø7  III7 (V7/vi)  vi7  ♭VIIM9  vi7  ♭VIIM9  I  ♭VIIM9  vi7  vi  IVM7  I6  ii7  ii  iii  IV  ♯iv°  V  I  VI7 (V7/ii)  ii7  V7  I  VI7 (V7/ii)  ii7  V

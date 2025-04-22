@@ -1,0 +1,10 @@
+Section: A
+[['F7sus'], ['F7sus'], ['F7sus'], ['F7sus'], ['Eb7sus'], ['Eb7sus'], ['Eb7sus'], ['Eb7sus']]
+Roman Numerals:
+ IV  IV  IV  IV  ♭III  ♭III  ♭III  ♭III
+Is it Diatonic?
+ IV, !D  IV, !D  IV, !D  IV, !D  ♭III, !D  ♭III, !D  ♭III, !D  ♭III, !D
+Is it Borrowed?
+ IV  IV  IV  IV  ♭III  ♭III  ♭III  ♭III
+Check if it has secondary dominants:
+ IV  IV  IV  IV  ♭III  ♭III  ♭III  ♭III

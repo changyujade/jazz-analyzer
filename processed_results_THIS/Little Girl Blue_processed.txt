@@ -1,0 +1,40 @@
+Section: v
+[['Gm7'], ['C7#11'], ['Fmaj7'], ['Fmaj7'], ['Gm7'], ['C7'], ['Fmaj7'], ['Fmaj7']]
+Roman Numerals:
+ ii7  V7  IM7  IM7  ii7  V7  IM7  IM7
+Is it Diatonic?
+ ii7  V7  IM7  IM7  ii7  V7  IM7  IM7
+Is it Borrowed?
+ ii7  V7  IM7  IM7  ii7  V7  IM7  IM7
+Check if it has secondary dominants:
+ ii7  V7  IM7  IM7  ii7  V7  IM7  IM7
+Section: None
+[['Em7'], ['A7'], ['Dm'], ['Dm/maj7'], ['Dm7'], ['G7'], ['Gm7'], ['C7']]
+Roman Numerals:
+ vii7  III7  vi  vi  vi7  II7  ii7  V7
+Is it Diatonic?
+ vii7, !D  III7, !D  vi  vi  vi7  II7, !D  ii7  V7
+Is it Borrowed?
+ vii7, lydian  III7  vi  vi  vi7  II7, lydian  ii7  V7
+Check if it has secondary dominants:
+ vii7  III7 (V7/vi)  vi  vi  vi7  II7  ii7  V7
+Section: A
+[['F6', 'Dm7'], ['Gm7', 'C7'], ['F6'], ['Cm7', 'F7'], ['Bbmaj7'], ['Bbm7', 'Eb7'], ['F6', 'Dm7'], ['Gm7', 'G#07'], ['Am7', 'D7'], ['Gm7', 'C7'], ['F6'], ['F6(Gm7)', '(C7)']]
+Roman Numerals:
+ I  vi7  ii7  V7  I  v7  I7  IVM7  iv7  ♭VII7  I  vi7  ii7  ♯iiø7  iii7  VI7  ii7  V7  I  I  V7
+Is it Diatonic?
+ I  vi7  ii7  V7  I  v7, !D  I7  IVM7  iv7, !D  ♭VII7, !D  I  vi7  ii7  ♯iiø7, !D  iii7  VI7, !D  ii7  V7  I  I  V7
+Is it Borrowed?
+ I  vi7  ii7  V7  I  v7, minor  I7  IVM7  iv7, minor  VII7, minor  I  vi7  ii7  ♯iiø7  iii7  VI7  ii7  V7  I  I  V7
+Check if it has secondary dominants:
+ I  vi7  ii7  V7  I  v7  I7 (V7/IV)  IVM7  iv7  ♭VII7  I  vi7  ii7  ♯iiø7 (viiø7/iii)  iii7  VI7 (V7/ii)  ii7  V7  I  I  V7
+Section: B
+[['C7'], ['Gm7', 'C7'], ['Fmaj7'], ['Fmaj7'], ['Em7'], ['A7'], ['Eb7#11', 'D7'], ['Db7#11', 'C7'], ['F6', 'Dm7'], ['Gm7', 'C7'], ['F6'], ['F6']]
+Roman Numerals:
+ V7  ii7  V7  IM7  IM7  vii7  III7  ♭VII7  VI7  ♭VI7  V7  I  vi7  ii7  V7  I  I
+Is it Diatonic?
+ V7  ii7  V7  IM7  IM7  vii7, !D  III7, !D  ♭VII7, !D  VI7, !D  ♭VI7, !D  V7  I  vi7  ii7  V7  I  I
+Is it Borrowed?
+ V7  ii7  V7  IM7  IM7  vii7, lydian  III7  VII7, minor  VI7  VI7, minor  V7  I  vi7  ii7  V7  I  I
+Check if it has secondary dominants:
+ V7  ii7  V7  IM7  IM7  vii7  III7  ♭VII7  VI7  ♭VI7  V7  I  vi7  ii7  V7  I  I

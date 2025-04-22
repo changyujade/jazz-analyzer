@@ -1,0 +1,10 @@
+Section: None
+[['Cmaj7/G'], ['Cmaj7/G'], ['Abmaj7#11/G'], ['Abmaj7#11/G'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['Dmaj7#11/F#'], ['Dmaj7#11/F#'], ['Bb7/F'], ['Bb7'], ['Emaj7#11/G#'], ['Emaj7#11/G#'], ['Dbmaj7/Ab'], ['Dbmaj7/Ab'], ['F7/A'], ['F7'], ['Bmaj7/Bb'], ['Bmaj7/Bb'], ['G7sus'], ['G7sus'], ['Ebmaj7/G'], ['Ebmaj7/G'], ['A7/G'], ['A7/G']]
+Roman Numerals:
+ IM43  IM43  ♭VIM42  ♭VIM42  ♭VM7  ♭VM7  IIM65  IIM65  ♭VII43  ♭VII7  IIIM65  IIIM65  ♭IIM43  ♭IIM43  IV65  IV7  VIIM7  VIIM7  V  V  ♭IIIM65  ♭IIIM65  VI42  VI42
+Is it Diatonic?
+ IM43  IM43  ♭VIM42, !D  ♭VIM42, !D  ♭VM7, !D  ♭VM7, !D  IIM65, !D  IIM65, !D  ♭VII43, !D  ♭VII7, !D  IIIM65, !D  IIIM65, !D  ♭IIM43, !D  ♭IIM43, !D  IV65  IV7  VIIM7, !D  VIIM7, !D  V, !D  V, !D  ♭IIIM65, !D  ♭IIIM65, !D  VI42, !D  VI42, !D
+Is it Borrowed?
+ IM43  IM43  VIM42, minor  VIM42, minor  VM7, locrian  VM7, locrian  IIM65, lydian  IIM65, lydian  VII43, minor  VII7, minor  IIIM65  IIIM65  IIM43, phrygian  IIM43, phrygian  IV65  IV7  VIIM7  VIIM7  V  V  IIIM65, minor  IIIM65, minor  VI42  VI42
+Check if it has secondary dominants:
+ IM43  IM43  ♭VIM42  ♭VIM42  ♭VM7  ♭VM7  IIM65  IIM65  ♭VII43  ♭VII7  IIIM65  IIIM65  ♭IIM43  ♭IIM43  IV65  IV7  VIIM7  VIIM7  V  V  ♭IIIM65  ♭IIIM65  VI42  VI42

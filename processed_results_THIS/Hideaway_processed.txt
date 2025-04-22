@@ -1,0 +1,10 @@
+Section: None
+[['E9'], ['E9', 'E6'], ['E9'], ['E9']]
+Roman Numerals:
+ ♯V9  ♯V9  ♯V  ♯V9  ♯V9
+Is it Diatonic?
+ ♯V9, !D  ♯V9, !D  ♯V, !D  ♯V9, !D  ♯V9, !D
+Is it Borrowed?
+ ♯V9  ♯V9  ♯V  ♯V9  ♯V9
+Check if it has secondary dominants:
+ ♯V9  ♯V9  ♯V  ♯V9  ♯V9

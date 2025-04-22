@@ -1,0 +1,20 @@
+Section: A
+[['Abm'], ['Abm'], ['Abm'], ['Abm'], ['Abm'], ['Abm'], ['Abm'], ['Abm']]
+Roman Numerals:
+ 𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii
+Is it Diatonic?
+ 𝄫ii, !D  𝄫ii, !D  𝄫ii, !D  𝄫ii, !D  𝄫ii, !D  𝄫ii, !D  𝄫ii, !D  𝄫ii, !D
+Is it Borrowed?
+ 𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii
+Check if it has secondary dominants:
+ 𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii  𝄫ii
+Section: B
+[['F#7'], ['F#7', 'B7'], ['F#7'], ['F#7', 'B7'], ['F#7'], ['F#7', 'B7'], ['F#7'], ['F#7', 'B7']]
+Roman Numerals:
+ VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7
+Is it Diatonic?
+ VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7
+Is it Borrowed?
+ VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7  VII7  VII7  III7
+Check if it has secondary dominants:
+ VII7  VII7 (V7/III)  III7  VII7  VII7 (V7/III)  III7  VII7  VII7 (V7/III)  III7  VII7  VII7 (V7/III)  III7

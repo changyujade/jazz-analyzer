@@ -1,0 +1,20 @@
+Section: A
+[['Db6', 'Bbm7'], ['Ebm7', 'Ab7#5'], ['Db6', 'Bbm7'], ['Ebm7', 'Ab7#5'], ['Fm7', 'Bb7'], ['Ebm7', 'Ab7#5'], ['Db6', 'Bbm7'], ['Ebm7', 'Ab7#5']]
+Roman Numerals:
+ I  vi7  ii7  V+7  I  vi7  ii7  V+7  iii7  VI7  ii7  V+7  I  vi7  ii7  V+7
+Is it Diatonic?
+ I  vi7  ii7  V+7, !D  I  vi7  ii7  V+7, !D  iii7  VI7, !D  ii7  V+7, !D  I  vi7  ii7  V+7, !D
+Is it Borrowed?
+ I  vi7  ii7  V+7  I  vi7  ii7  V+7  iii7  VI7  ii7  V+7  I  vi7  ii7  V+7
+Check if it has secondary dominants:
+ I  vi7  ii7  V+7  I  vi7  ii7  V+7  iii7  VI7 (V7/ii)  ii7  V+7  I  vi7  ii7  V+7
+Section: B
+[['C9'], ['C9'], ['F9'], ['F9'], ['Bb9'], ['Bb9'], ['Eb9'], ['Ab7#5']]
+Roman Numerals:
+ VII9  VII9  III9  III9  VI9  VI9  II9  V+7
+Is it Diatonic?
+ VII9, !D  VII9, !D  III9, !D  III9, !D  VI9, !D  VI9, !D  II9, !D  V+7, !D
+Is it Borrowed?
+ VII9  VII9  III9  III9  VI9  VI9  II9, lydian  V+7
+Check if it has secondary dominants:
+ VII9  VII9 (V9/III)  III9  III9 (V9/VI)  VI9  VI9 (V9/II)  II9  V+7

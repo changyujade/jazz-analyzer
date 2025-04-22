@@ -1,0 +1,20 @@
+Section: A
+[['D9sus'], ['D9sus'], ['D9sus'], ['D9sus'], ['F9sus'], ['F9sus'], ['F9sus'], ['F9sus']]
+Roman Numerals:
+ I  I  I  I  ♭III  ♭III  ♭III  ♭III
+Is it Diatonic?
+ I, !D  I, !D  I, !D  I, !D  ♭III, !D  ♭III, !D  ♭III, !D  ♭III, !D
+Is it Borrowed?
+ I  I  I  I  ♭III  ♭III  ♭III  ♭III
+Check if it has secondary dominants:
+ I  I  I  I  ♭III  ♭III  ♭III  ♭III
+Section: B
+[['Eb9sus'], ['Eb9sus'], ['Eb9sus'], ['Eb9sus'], ['C#m9'], ['C#m9'], ['C#m9'], ['C#m9']]
+Roman Numerals:
+ II  II  II  II  vii9  vii9  vii9  vii9
+Is it Diatonic?
+ II, !D  II, !D  II, !D  II, !D  vii9, !D  vii9, !D  vii9, !D  vii9, !D
+Is it Borrowed?
+ II  II  II  II  vii9, lydian  vii9, lydian  vii9, lydian  vii9, lydian
+Check if it has secondary dominants:
+ II  II  II  II  vii9  vii9  vii9  vii9

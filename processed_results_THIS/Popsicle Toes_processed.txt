@@ -1,0 +1,30 @@
+Section: A
+[['Am', 'Am7/G'], ['F#m7b5', 'F7#11'], ['Am', 'Am/G'], ['F#m7b5', 'F7#11'], ['Am', 'Am7/G'], ['F#m7b5', 'F7#11'], ['E7#9'], ['E7#9']]
+Roman Numerals:
+ i  i42  ♯viø7  VI7  i  i  ♯viø7  VI7  i  i42  ♯viø7  VI7  V7  V7
+Is it Diatonic?
+ i  i42  ♯viø7, !D  VI7  i  i  ♯viø7, !D  VI7  i  i42  ♯viø7, !D  VI7  V7, !D  V7, !D
+Is it Borrowed?
+ i  i42  viø7, dorian  VI7  i  i  viø7, dorian  VI7  i  i42  viø7, dorian  VI7  V7, major  V7, major
+Check if it has secondary dominants:
+ i  i42  ♯viø7  VI7  i  i  ♯viø7  VI7  i  i42  ♯viø7  VI7  V7  V7
+Section: B
+[['A7'], ['A7'], ['D7'], ['D7'], ['A7'], ['B7'], ['E7#9'], ['E7#9'], ['A7'], ['A7'], ['D7'], ['D7'], ['A7'], ['E7'], ['D7'], ['A7']]
+Roman Numerals:
+ I7  I7  IV7  IV7  I7  II7  V7  V7  I7  I7  IV7  IV7  I7  V7  IV7  I7
+Is it Diatonic?
+ I7, !D  I7, !D  IV7, !D  IV7, !D  I7, !D  II7, !D  V7, !D  V7, !D  I7, !D  I7, !D  IV7, !D  IV7, !D  I7, !D  V7, !D  IV7, !D  I7, !D
+Is it Borrowed?
+ I7, major  I7, major  IV7, major  IV7, major  I7, major  II7, lydian  V7, major  V7, major  I7, major  I7, major  IV7, major  IV7, major  I7, major  V7, major  IV7, major  I7, major
+Check if it has secondary dominants:
+ I7  I7 (V7/IV)  IV7  IV7  I7  II7 (V7/V)  V7  V7  I7  I7 (V7/IV)  IV7  IV7  I7  V7  IV7  I7
+Section: C
+[['Am7'], ['D7'], ['Gmaj7'], ['Gmaj7'], ['Gm7'], ['C7'], ['Fmaj7'], ['Fmaj7'], ['Cm7'], ['F7'], ['Bbmaj7'], ['Bbmaj7'], ['Bbm7'], ['Eb7'], ['Abm7'], ['Db7']]
+Roman Numerals:
+ i7  IV7  VIIM7  VIIM7  vii7  III7  VIM7  VIM7  iii7  VI7  ♭IIM7  ♭IIM7  ♭ii7  ♭V7  ♭i7  ♭IV7
+Is it Diatonic?
+ i7  IV7, !D  VIIM7  VIIM7  vii7, !D  III7  VIM7  VIM7  iii7, !D  VI7  ♭IIM7, !D  ♭IIM7, !D  ♭ii7, !D  ♭V7, !D  ♭i7, !D  ♭IV7, !D
+Is it Borrowed?
+ i7  IV7, major  VIIM7  VIIM7  vii7, phrygian  III7  VIM7  VIM7  iii7, locrian  VI7  IIM7, phrygian  IIM7, phrygian  ♭ii7  V7, locrian  ♭i7  ♭IV7
+Check if it has secondary dominants:
+ i7  IV7 (V7/VII)  VIIM7  VIIM7  vii7  III7 (V7/VI)  VIM7  VIM7  iii7  VI7 (V7/♭II)  ♭IIM7  ♭IIM7  ♭ii7  ♭V7 (V7/♭i)  ♭i7  ♭IV7

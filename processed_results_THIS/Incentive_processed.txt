@@ -1,0 +1,10 @@
+Section: None
+[['Dm7b5'], ['G13b9'], ['Cm7b5'], ['F13b9'], ['Bbm7b5'], ['Eb13b9'], ['Am7'], ['D9'], ['Dbmaj7'], ['C13b9'], ['Fm7', 'Fm7/Eb']]
+Roman Numerals:
+ ♯ivø7  VII13  iiiø7  VI13  iiø7  V13  ♯i7  ♯IV9  IVM7  III13  vi7  vi42
+Is it Diatonic?
+ ♯ivø7, !D  VII13, !D  iiiø7, !D  VI13, !D  iiø7, !D  V13  ♯i7, !D  ♯IV9, !D  IVM7  III13, !D  vi7  vi42
+Is it Borrowed?
+ ivø7, lydian  VII13  iiiø7, mixolydian  VI13  iiø7, minor  V13  ♯i7  ♯IV9  IVM7  III13  vi7  vi42
+Check if it has secondary dominants:
+ ♯ivø7  VII13  iiiø7  VI13  iiø7  V13  ♯i7  ♯IV9  IVM7  III13 (V13/vi)  vi7  vi42

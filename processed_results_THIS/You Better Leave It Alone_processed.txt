@@ -1,0 +1,10 @@
+Section: None
+[['Bb13'], ['Bb13'], ['Bb13'], ['Bb13'], ['Eb13'], ['Eb13'], ['Eb13'], ['Eb7'], ['Bb13'], ['Bb13'], ['Ab13'], ['G7#5'], ['Cm9'], ['F13']]
+Roman Numerals:
+ I13  I13  I13  I13  IV13  IV13  IV13  IV7  I13  I13  ♭VII13  VI+7  ii9  V13
+Is it Diatonic?
+ I13  I13  I13  I13  IV13  IV13  IV13  IV7  I13  I13  ♭VII13, !D  VI+7, !D  ii9  V13
+Is it Borrowed?
+ I13  I13  I13  I13  IV13  IV13  IV13  IV7  I13  I13  VII13, minor  VI+7  ii9  V13
+Check if it has secondary dominants:
+ I13  I13  I13  I13 (V13/IV)  IV13  IV13  IV13  IV7  I13  I13  ♭VII13  VI+7  ii9  V13

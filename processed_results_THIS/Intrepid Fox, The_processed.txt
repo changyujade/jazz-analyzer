@@ -1,0 +1,30 @@
+Section: A
+[['Cm7', 'Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['A7sus', 'A7sus', 'F#7sus', 'Eb7sus'], ['C7sus', 'C7sus', 'A7sus', 'F#7sus'], ['F7sus'], ['F7sus'], ['F7sus'], ['F7sus']]
+Roman Numerals:
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  ♯VI  ♯VI  ♯IV  III  I  I  ♯VI  ♯IV  IV  IV  IV  IV
+Is it Diatonic?
+ i7  i7  i7  i7  i7  i7  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  VII, !D  VII, !D  VII, !D  VII, !D  ♯VI, !D  ♯VI, !D  ♯IV, !D  III, !D  I, !D  I, !D  ♯VI, !D  ♯IV, !D  IV, !D  IV, !D  IV, !D  IV, !D
+Is it Borrowed?
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  ♯VI  ♯VI  ♯IV  III  I  I  ♯VI  ♯IV  IV  IV  IV  IV
+Check if it has secondary dominants:
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  ♯VI  ♯VI  ♯IV  III  I  I  ♯VI  ♯IV  IV  IV  IV  IV
+Section: B
+[['Bb7sus'], ['Db7sus', 'Eb7sus'], ['Bb7sus', 'Db7sus'], ['Eb7sus', 'F7sus'], ['Bb7sus'], ['Db7sus', 'Eb7sus'], ['F7sus', 'G7sus'], ['A7sus']]
+Roman Numerals:
+ VII  ♭II  III  VII  ♭II  III  IV  VII  ♭II  III  IV  V  ♯VI
+Is it Diatonic?
+ VII, !D  ♭II, !D  III, !D  VII, !D  ♭II, !D  III, !D  IV, !D  VII, !D  ♭II, !D  III, !D  IV, !D  V, !D  ♯VI, !D
+Is it Borrowed?
+ VII  ♭II  III  VII  ♭II  III  IV  VII  ♭II  III  IV  V  ♯VI
+Check if it has secondary dominants:
+ VII  ♭II  III  VII  ♭II  III  IV  VII  ♭II  III  IV  V  ♯VI
+Section: None
+[['Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Cm7'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bmaj7#11'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['Bb7sus'], ['F7sus'], ['F7sus'], ['F7sus'], ['F7sus'], ['F7sus'], ['F7sus']]
+Roman Numerals:
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  VII  VII  IV  IV  IV  IV  IV  IV
+Is it Diatonic?
+ i7  i7  i7  i7  i7  i7  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  ♯VIIM7, !D  VII, !D  VII, !D  VII, !D  VII, !D  VII, !D  VII, !D  IV, !D  IV, !D  IV, !D  IV, !D  IV, !D  IV, !D
+Is it Borrowed?
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  VII  VII  IV  IV  IV  IV  IV  IV
+Check if it has secondary dominants:
+ i7  i7  i7  i7  i7  i7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  ♯VIIM7  VII  VII  VII  VII  VII  VII  IV  IV  IV  IV  IV  IV

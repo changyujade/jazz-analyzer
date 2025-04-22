@@ -1,0 +1,30 @@
+Section: A
+[['Gm'], ['Gmb6'], ['Em7b5'], ['C#m7b5', 'F#7b9'], ['Bm7', 'Dm7'], ['A13b9', 'Gm'], ['Dm7'], ['D7b9']]
+Roman Numerals:
+ i  i  ♯viø7  ♯ivø7  ♯VII7  ♯iii7  v7  II13  i  v7  V7
+Is it Diatonic?
+ i  i  ♯viø7, !D  ♯ivø7, !D  ♯VII7, !D  ♯iii7, !D  v7  II13, !D  i  v7  V7, !D
+Is it Borrowed?
+ i  i  viø7, dorian  ivø7, lydian  ♯VII7  iii7, major  v7  II13, lydian  i  v7  V7, major
+Check if it has secondary dominants:
+ i  i  ♯viø7  ♯ivø7  ♯VII7 (V7/♯iii)  ♯iii7  v7  II13  i  v7  V7
+Section: None
+[['Cm7', 'Gm7'], ['Em7b5', 'E7b9'], ['Am'], ['E7b9'], ['Fmaj7', 'Cmaj7'], ['Cm7', 'Gm7'], ['F#m7'], ['Bm7', 'E7b9']]
+Roman Numerals:
+ iv7  i7  ♯viø7  ♯VI7  ii  ♯VI7  VIIM7  IVM7  iv7  i7  ♯vii7  ♯iii7  ♯VI7
+Is it Diatonic?
+ iv7  i7  ♯viø7, !D  ♯VI7, !D  ii, !D  ♯VI7, !D  VIIM7  IVM7, !D  iv7  i7  ♯vii7, !D  ♯iii7, !D  ♯VI7, !D
+Is it Borrowed?
+ iv7  i7  viø7, dorian  ♯VI7  ii, major  ♯VI7  VIIM7  IVM7, major  iv7  i7  vii7, lydian  iii7, major  ♯VI7
+Check if it has secondary dominants:
+ iv7  i7  ♯viø7  ♯VI7 (V7/ii)  ii  ♯VI7  VIIM7  IVM7  iv7  i7  ♯vii7  ♯iii7  ♯VI7
+Section: B
+[['F#m7'], ['F#m7b5/B', 'F#13b9'], ['B9sus', 'B7b9sus/B'], ['B7#5', 'B/A'], ['Gmaj7#5'], ['F#m7b5'], ['Cmaj7'], ['Bm7', 'E7b9'], ['F#m7b5', 'Fmaj7'], ['E13b9', 'E13b9', 'D/F#', 'E/G#'], ['Cmaj7#5', 'F9sus'], ['F9sus', 'Fmaj7#11'], ['Cmaj7/E', 'A/E'], ['A/E'], ['Bb/E'], ['B/E', 'C/D']]
+Roman Numerals:
+ ♯vii7  ♯viiø7  ♯VII13  ♯III  ♯III5  ♯III+7  ♯III  IM+7  ♯viiø7  IVM7  ♯iii7  ♯VI7  ♯viiø7  VIIM7  ♯VI13  ♯VI13  V6  ♯VI6  IVM+7  VII  VII  VIIM7  IVM65  II64  II64  III  ♯III  IV
+Is it Diatonic?
+ ♯vii7, !D  ♯viiø7, !D  ♯VII13, !D  ♯III, !D  ♯III5, !D  ♯III+7, !D  ♯III, !D  IM+7, !D  ♯viiø7, !D  IVM7, !D  ♯iii7, !D  ♯VI7, !D  ♯viiø7, !D  VIIM7  ♯VI13, !D  ♯VI13, !D  V6, !D  ♯VI6, !D  IVM+7, !D  VII, !D  VII, !D  VIIM7  IVM65, !D  II64, !D  II64, !D  III  ♯III, !D  IV, !D
+Is it Borrowed?
+ vii7, lydian  viiø7, major  ♯VII13  ♯III  ♯III5  ♯III+7  ♯III  IM+7  viiø7, major  IVM7, major  iii7, major  ♯VI7  viiø7, major  VIIM7  ♯VI13  ♯VI13  V6, major  ♯VI6  IVM+7  VII  VII  VIIM7  IVM65, major  II64, lydian  II64, lydian  III  ♯III  IV, major
+Check if it has secondary dominants:
+ ♯vii7  ♯viiø7  ♯VII13  ♯III  ♯III5  ♯III+7  ♯III  IM+7  ♯viiø7  IVM7  ♯iii7  ♯VI7  ♯viiø7  VIIM7  ♯VI13  ♯VI13  V6  ♯VI6  IVM+7  VII  VII  VIIM7  IVM65  II64  II64  III  ♯III  IV

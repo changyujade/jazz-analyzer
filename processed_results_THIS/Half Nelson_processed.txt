@@ -1,0 +1,10 @@
+Section: None
+[['Cmaj7'], ['Cmaj7'], ['Fm7'], ['Bb7'], ['Cmaj7'], ['Cmaj7'], ['Bm7', 'E7'], ['Bbm7', 'Eb7'], ['Abmaj7'], ['Abmaj7'], ['Am7'], ['D7'], ['Dm7'], ['G7'], ['Cmaj7', 'Ebmaj7'], ['Abmaj7', 'Dbmaj7']]
+Roman Numerals:
+ IM7  IM7  iv7  ♭VII7  IM7  IM7  vii7  III7  ♭vii7  ♭III7  ♭VIM7  ♭VIM7  vi7  II7  ii7  V7  IM7  ♭IIIM7  ♭VIM7  ♭IIM7
+Is it Diatonic?
+ IM7  IM7  iv7, !D  ♭VII7, !D  IM7  IM7  vii7, !D  III7, !D  ♭vii7, !D  ♭III7, !D  ♭VIM7, !D  ♭VIM7, !D  vi7  II7, !D  ii7  V7  IM7  ♭IIIM7, !D  ♭VIM7, !D  ♭IIM7, !D
+Is it Borrowed?
+ IM7  IM7  iv7, minor  VII7, minor  IM7  IM7  vii7, lydian  III7  vii7, phrygian  III7, minor  VIM7, minor  VIM7, minor  vi7  II7, lydian  ii7  V7  IM7  IIIM7, minor  VIM7, minor  IIM7, phrygian
+Check if it has secondary dominants:
+ IM7  IM7 (VM7/iv)  iv7  ♭VII7  IM7  IM7  vii7  III7  ♭vii7  ♭III7 (V7/♭VI)  ♭VIM7  ♭VIM7  vi7  II7  ii7  V7  IM7  ♭IIIM7 (VM7/♭VI)  ♭VIM7 (VM7/♭II)  ♭IIM7

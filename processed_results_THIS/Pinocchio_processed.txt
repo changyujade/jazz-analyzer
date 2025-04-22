@@ -1,0 +1,10 @@
+Section: None
+[['Gbmaj7#11'], ['Gbmaj7#11', 'Am9'], ['Dbm69(Emaj7#11)'], ['Dbm69', 'Am9'], ['Dmaj7#5'], ['Bm/maj7'], ['Gm/maj7'], ['Gm/maj7'], ['Gm6(Bbmaj7#11)'], ['Ebmaj7', 'Bm9'], ['Gbmaj7#11'], ['Gbmaj7#11'], ['C#m9'], ['Em9'], ['Ebmaj7#5(B7alt)'], ['F#13'], ['F#m9'], ['F#m9']]
+Roman Numerals:
+ IIIM7  IIIM7  ♯iv9  vii  vii  ♯iv9  ♯VIIM+7  ♯v  ♯iii  ♯iii  ♯iii  IM7  ♯v9  IIIM7  IIIM7  𝄪vi9  ♯i9  IM+7  ♯II13  ♯ii9  ♯ii9
+Is it Diatonic?
+ IIIM7  IIIM7  ♯iv9, !D  vii, !D  vii, !D  ♯iv9, !D  ♯VIIM+7, !D  ♯v, !D  ♯iii, !D  ♯iii, !D  ♯iii, !D  IM7, !D  ♯v9, !D  IIIM7  IIIM7  𝄪vi9, !D  ♯i9, !D  IM+7, !D  ♯II13, !D  ♯ii9, !D  ♯ii9, !D
+Is it Borrowed?
+ IIIM7  IIIM7  ♯iv9  vii, phrygian  vii, phrygian  ♯iv9  ♯VIIM+7  ♯v  iii, major  iii, major  iii, major  IM7, major  ♯v9  IIIM7  IIIM7  𝄪vi9  ♯i9  IM+7  ♯II13  ♯ii9  ♯ii9
+Check if it has secondary dominants:
+ IIIM7  IIIM7  ♯iv9  vii  vii  ♯iv9  ♯VIIM+7  ♯v  ♯iii  ♯iii  ♯iii  IM7  ♯v9  IIIM7  IIIM7  𝄪vi9  ♯i9  IM+7  ♯II13  ♯ii9  ♯ii9

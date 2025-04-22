@@ -1,0 +1,20 @@
+Section: A
+[['Ab'], ['Bb/Ab'], ['Ab'], ['Bb/Ab'], ['Ab'], ['Fm'], ['Gm'], ['F#7'], ['B'], ['C#/B'], ['B'], ['C#m'], ['C#m'], ['Bbm7b5'], ['Eb'], ['Eb']]
+Roman Numerals:
+ I  II  I  II  I  vi  vii  ♯VI7  ♯II  ♯III  ♯II  ♯iii  ♯iii  iiø7  V  V
+Is it Diatonic?
+ I  II, !D  I  II, !D  I  vi  vii, !D  ♯VI7, !D  ♯II, !D  ♯III, !D  ♯II, !D  ♯iii, !D  ♯iii, !D  iiø7, !D  V  V
+Is it Borrowed?
+ I  II, lydian  I  II, lydian  I  vi  vii, lydian  ♯VI7  ♯II  ♯III  ♯II  ♯iii  ♯iii  iiø7, minor  V  V
+Check if it has secondary dominants:
+ I  II  I  II  I  vi  vii  ♯VI7 (V7/♯II)  ♯II  ♯III  ♯II  ♯iii  ♯iii  iiø7  V  V
+Section: B
+[['E'], ['E'], ['Bbm7b5'], ['Bbm7b5'], ['Bm'], ['B07'], ['Bb'], ['Bb7'], ['Ab'], ['Bb/Ab'], ['Ab'], ['Fm'], ['Cm'], ['Eb7'], ['Ab'], ['Ab']]
+Roman Numerals:
+ ♯V  ♯V  iiø7  iiø7  ♯ii  ♯iiø7  II  II7  I  II  I  vi  iii  V7  I  I
+Is it Diatonic?
+ ♯V, !D  ♯V, !D  iiø7, !D  iiø7, !D  ♯ii, !D  ♯iiø7, !D  II, !D  II7, !D  I  II, !D  I  vi  iii  V7  I  I
+Is it Borrowed?
+ ♯V  ♯V  iiø7, minor  iiø7, minor  ♯ii  ♯iiø7  II, lydian  II7, lydian  I  II, lydian  I  vi  iii  V7  I  I
+Check if it has secondary dominants:
+ ♯V  ♯V  iiø7  iiø7  ♯ii  ♯iiø7  II  II7  I  II  I  vi  iii  V7  I  I

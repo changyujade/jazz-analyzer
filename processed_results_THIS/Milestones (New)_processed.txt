@@ -1,0 +1,30 @@
+Section: A
+[['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am'], ['Am']]
+Roman Numerals:
+ ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii
+Is it Diatonic?
+ ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D  ii, !D
+Is it Borrowed?
+ ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major  ii, major
+Check if it has secondary dominants:
+ ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii  ii
+Section: B
+[['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7']]
+Roman Numerals:
+ i7  i7  i7  i7  i7  i7  i7  i7
+Is it Diatonic?
+ i7  i7  i7  i7  i7  i7  i7  i7
+Is it Borrowed?
+ i7  i7  i7  i7  i7  i7  i7  i7
+Check if it has secondary dominants:
+ i7  i7  i7  i7  i7  i7  i7  i7
+Section: i
+[['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7'], ['Gm7']]
+Roman Numerals:
+ i7  i7  i7  i7  i7  i7  i7  i7
+Is it Diatonic?
+ i7  i7  i7  i7  i7  i7  i7  i7
+Is it Borrowed?
+ i7  i7  i7  i7  i7  i7  i7  i7
+Check if it has secondary dominants:
+ i7  i7  i7  i7  i7  i7  i7  i7

@@ -1,0 +1,30 @@
+Section: A
+[['C69', 'A7b9'], ['Dm9', 'G7b9'], ['Am', 'Am/G'], ['D7/F#', 'Fm6'], ['Cmaj7(Em7)', 'D9']]
+Roman Numerals:
+ I  VI7  ii9  V7  vi  vi  II65  iv  IM7  II9
+Is it Diatonic?
+ I  VI7, !D  ii9  V7  vi  vi  II65, !D  iv, !D  IM7  II9, !D
+Is it Borrowed?
+ I  VI7  ii9  V7  vi  vi  II65, lydian  iv, minor  IM7  II9, lydian
+Check if it has secondary dominants:
+ I  VI7 (V7/ii)  ii9  V7  vi  vi  II65  iv  IM7  II9
+Section: B
+[['Emaj7', 'F9'], ['Emaj7', 'F9'], ['Emaj7', 'F9'], ['Emaj7', 'Am7', 'D7', 'D7'], ['Gmaj7', 'Ab9'], ['Gmaj7', 'Ab9'], ['Gmaj7', 'Eb7(Bbm7)'], ['Dm9', 'G7#5']]
+Roman Numerals:
+ IIIM7  IV9  IIIM7  IV9  IIIM7  IV9  IIIM7  vi7  II7  II7  VM7  ♭VI9  VM7  ♭VI9  VM7  ♭III7  ii9  V+7
+Is it Diatonic?
+ IIIM7, !D  IV9  IIIM7, !D  IV9  IIIM7, !D  IV9  IIIM7, !D  vi7  II7, !D  II7, !D  VM7  ♭VI9, !D  VM7  ♭VI9, !D  VM7  ♭III7, !D  ii9  V+7, !D
+Is it Borrowed?
+ IIIM7  IV9  IIIM7  IV9  IIIM7  IV9  IIIM7  vi7  II7, lydian  II7, lydian  VM7  VI9, minor  VM7  VI9, minor  VM7  III7, minor  ii9  V+7
+Check if it has secondary dominants:
+ IIIM7  IV9  IIIM7  IV9  IIIM7  IV9  IIIM7 (VM7/vi)  vi7  II7  II7 (V7/V)  VM7  ♭VI9  VM7  ♭VI9  VM7  ♭III7  ii9  V+7
+Section: C
+[['C69', 'A7b9'], ['Dm9', 'G7b9'], ['Am', 'Am/G'], ['F#m7b5', 'Fm6'], ['Em7', 'A7#5'], ['D9', 'G7#5'], ['C69', 'Db7'], ['Dm7', 'Db7'], ['Em7', 'Eb7'], ['Abmaj7', 'Db9'], ['C69'], ['C69']]
+Roman Numerals:
+ I  VI7  ii9  V7  vi  vi  ♯ivø7  iv  iii7  VI+7  II9  V+7  I  ♭II7  ii7  ♭II7  iii7  ♭III7  ♭VIM7  ♭II9  I  I
+Is it Diatonic?
+ I  VI7, !D  ii9  V7  vi  vi  ♯ivø7, !D  iv, !D  iii7  VI+7, !D  II9, !D  V+7, !D  I  ♭II7, !D  ii7  ♭II7, !D  iii7  ♭III7, !D  ♭VIM7, !D  ♭II9, !D  I  I
+Is it Borrowed?
+ I  VI7  ii9  V7  vi  vi  ivø7, lydian  iv, minor  iii7  VI+7  II9, lydian  V+7  I  II7, phrygian  ii7  II7, phrygian  iii7  III7, minor  VIM7, minor  II9, phrygian  I  I
+Check if it has secondary dominants:
+ I  VI7 (V7/ii)  ii9  V7  vi  vi  ♯ivø7  iv  iii7  VI+7  II9  V+7  I  ♭II7  ii7  ♭II7  iii7  ♭III7 (V7/♭VI)  ♭VIM7 (VM7/♭II)  ♭II9  I  I

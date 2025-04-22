@@ -1,0 +1,10 @@
+Section: None
+[['F7sus'], ['Bb7sus'], ['F7sus'], ['F7sus'], ['Bb7sus'], ['Bb7sus'], ['F7sus'], ['F7sus'], ['C7sus'], ['Bb7sus'], ['F7sus(Dbmaj7#11)'], ['F7sus(Dbmaj7#11)']]
+Roman Numerals:
+ I  IV  I  I  IV  IV  I  I  V  IV  I  I
+Is it Diatonic?
+ I, !D  IV, !D  I, !D  I, !D  IV, !D  IV, !D  I, !D  I, !D  V, !D  IV, !D  I, !D  I, !D
+Is it Borrowed?
+ I  IV  I  I  IV  IV  I  I  V  IV  I  I
+Check if it has secondary dominants:
+ I  IV  I  I  IV  IV  I  I  V  IV  I  I

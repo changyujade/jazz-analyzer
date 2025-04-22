@@ -1,0 +1,10 @@
+Section: A
+[['D7sus'], ['D7sus'], ['Dm7b5'], ['G7b9'], ['Cm7'], ['Cm7/Bb'], ['Am7'], ['Am7']]
+Roman Numerals:
+ II  II  iiø7  V7  i7  i42  vi7  vi7
+Is it Diatonic?
+ II, !D  II, !D  iiø7, !D  V7  i7, !D  i42, !D  vi7  vi7
+Is it Borrowed?
+ II  II  iiø7, minor  V7  i7, minor  i42, minor  vi7  vi7
+Check if it has secondary dominants:
+ II  II  iiø7  V7  i7  i42  vi7  vi7

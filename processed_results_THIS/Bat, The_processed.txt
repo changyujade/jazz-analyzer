@@ -1,0 +1,30 @@
+Section: None
+[['Ab/Bb'], ['Eb/Bb'], ['Ab/Bb'], ['Eb/Bb'], ['Ab/Bb'], ['Eb']]
+Roman Numerals:
+ ♭II  ♭VI64  ♭II  ♭VI64  ♭II  ♭VI
+Is it Diatonic?
+ ♭II, !D  ♭VI64, !D  ♭II, !D  ♭VI64, !D  ♭II, !D  ♭VI, !D
+Is it Borrowed?
+ II, phrygian  VI64, minor  II, phrygian  VI64, minor  II, phrygian  VI, minor
+Check if it has secondary dominants:
+ ♭II  ♭VI64 (V64/♭II)  ♭II  ♭VI64 (V64/♭II)  ♭II  ♭VI
+Section: B
+[['Ebm7', 'Ebm7', 'C#m7', 'F#7'], ['Cm7b5', 'Cm7b5', 'Bmaj7', 'Db/B'], ['Gb/Bb', 'Ebm7', 'D13', 'Db13'], ['C13b9', 'Fm7'], ['Fm7b5', 'Bb7#5']]
+Roman Numerals:
+ ♭vi7  ♭vi7  ♯iv7  VII7  ivø7  ivø7  IIIM7  ♭V  ♭I6  ♭vi7  V13  ♭V13  IV13  ♭vii7  ♭viiø7  ♭III+7
+Is it Diatonic?
+ ♭vi7, !D  ♭vi7, !D  ♯iv7, !D  VII7, !D  ivø7, !D  ivø7, !D  IIIM7, !D  ♭V, !D  ♭I6, !D  ♭vi7, !D  V13  ♭V13, !D  IV13  ♭vii7, !D  ♭viiø7, !D  ♭III+7, !D
+Is it Borrowed?
+ ♭vi7  ♭vi7  ♯iv7  VII7  ivø7  ivø7  IIIM7  V, locrian  ♭I6  ♭vi7  V13  V13, locrian  IV13  vii7, phrygian  ♭viiø7  ♭III+7
+Check if it has secondary dominants:
+ ♭vi7  ♭vi7  ♯iv7  VII7  ivø7  ivø7  IIIM7  ♭V (V/♭I)  ♭I6  ♭vi7  V13  ♭V13  IV13 (V13/♭vii)  ♭vii7  ♭viiø7  ♭III+7
+Section: C
+[['Ebmaj7', 'Ebmaj7', 'Bb/D', 'Bb/D'], ['Ab/C', 'Ab/C', 'Abm/B', 'Abm/B'], ['Eb/Bb', 'Eb/Bb', 'Eb/Bb', 'Eb/Bb'], ['Ab/Bb', 'Ab/Bb', 'Am7b5', 'D7']]
+Roman Numerals:
+ ♭VIM7  ♭VIM7  ♭III6  ♭III6  ♭II6  ♭II6  ♭ii  ♭ii  ♭VI64  ♭VI64  ♭VI64  ♭VI64  ♭II  ♭II  iiø7  V7
+Is it Diatonic?
+ ♭VIM7, !D  ♭VIM7, !D  ♭III6, !D  ♭III6, !D  ♭II6, !D  ♭II6, !D  ♭ii, !D  ♭ii, !D  ♭VI64, !D  ♭VI64, !D  ♭VI64, !D  ♭VI64, !D  ♭II, !D  ♭II, !D  iiø7, !D  V7
+Is it Borrowed?
+ VIM7, minor  VIM7, minor  III6, minor  III6, minor  II6, phrygian  II6, phrygian  ♭ii  ♭ii  VI64, minor  VI64, minor  VI64, minor  VI64, minor  II, phrygian  II, phrygian  iiø7, minor  V7
+Check if it has secondary dominants:
+ ♭VIM7  ♭VIM7  ♭III6  ♭III6  ♭II6  ♭II6  ♭ii  ♭ii  ♭VI64  ♭VI64  ♭VI64  ♭VI64 (V64/♭II)  ♭II  ♭II  iiø7  V7

@@ -1,0 +1,10 @@
+Section: A
+[['Cmaj7'], ['Am7'], ['Fmaj7#11'], ['Cmaj7/E'], ['Fmaj7#11'], ['Cmaj7/E'], ['Bm7b5'], ['E7b9']]
+Roman Numerals:
+ IM7  vi7  IVM7  IM65  IVM7  IM65  viiø7  III7
+Is it Diatonic?
+ IM7  vi7  IVM7  IM65  IVM7  IM65  viiø7  III7, !D
+Is it Borrowed?
+ IM7  vi7  IVM7  IM65  IVM7  IM65  viiø7  III7
+Check if it has secondary dominants:
+ IM7  vi7  IVM7  IM65 (VM65/IV)  IVM7  IM65  viiø7  III7

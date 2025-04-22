@@ -1,0 +1,40 @@
+Section: v
+[['Ebmaj7', 'E07'], ['Fm7', 'Bb7'], ['Gm7', 'F#07'], ['Gm7', 'C7'], ['Fm7'], ['Fm7', 'Bb7'], ['Ebmaj7'], ['Fm7', 'Bb7'], ['Ebmaj7', 'E07'], ['Fm7', 'Bb7'], ['Ebmaj7'], ['Am7', 'D7'], ['Gm7', 'D7b9'], ['Gm7', 'D7b9'], ['Bb7'], ['Bb7', 'Bb7#5']]
+Roman Numerals:
+ IM7  ♯iø7  ii7  V7  iii7  ♯iiø7  iii7  VI7  ii7  ii7  V7  IM7  ii7  V7  IM7  ♯iø7  ii7  V7  IM7  ♯iv7  VII7  iii7  VII7  iii7  VII7  V7  V7  V+7
+Is it Diatonic?
+ IM7  ♯iø7, !D  ii7  V7  iii7  ♯iiø7, !D  iii7  VI7, !D  ii7  ii7  V7  IM7  ii7  V7  IM7  ♯iø7, !D  ii7  V7  IM7  ♯iv7, !D  VII7, !D  iii7  VII7, !D  iii7  VII7, !D  V7  V7  V+7, !D
+Is it Borrowed?
+ IM7  ♯iø7  ii7  V7  iii7  ♯iiø7  iii7  VI7  ii7  ii7  V7  IM7  ii7  V7  IM7  ♯iø7  ii7  V7  IM7  ♯iv7  VII7  iii7  VII7  iii7  VII7  V7  V7  V+7
+Check if it has secondary dominants:
+ IM7  ♯iø7 (viiø7/ii)  ii7  V7  iii7  ♯iiø7 (viiø7/iii)  iii7  VI7 (V7/ii)  ii7  ii7  V7  IM7  ii7  V7  IM7  ♯iø7 (viiø7/ii)  ii7  V7  IM7  ♯iv7  VII7 (V7/iii)  iii7  VII7 (V7/iii)  iii7  VII7  V7  V7  V+7
+Section: A
+[['Eb6'], ['Eb6', 'E07'], ['Fm7'], ['Bb7'], ['Cm', 'Cm/maj7'], ['Cm7', 'Cm6']]
+Roman Numerals:
+ I  I  ♯iø7  ii7  V7  vi  vi  vi7  vi
+Is it Diatonic?
+ I  I  ♯iø7, !D  ii7  V7  vi  vi  vi7  vi
+Is it Borrowed?
+ I  I  ♯iø7  ii7  V7  vi  vi  vi7  vi
+Check if it has secondary dominants:
+ I  I  ♯iø7 (viiø7/ii)  ii7  V7  vi  vi  vi7  vi
+Section: B
+[['Abmaj7', 'Gm7'], ['Fm7', 'Bb7'], ['Eb6'], ['Am7b5'], ['D7', 'G7'], ['C7', 'F7'], ['Fm7'], ['Bb7']]
+Roman Numerals:
+ IVM7  iii7  ii7  V7  I  ♯ivø7  VII7  III7  VI7  II7  ii7  V7
+Is it Diatonic?
+ IVM7  iii7  ii7  V7  I  ♯ivø7, !D  VII7, !D  III7, !D  VI7, !D  II7, !D  ii7  V7
+Is it Borrowed?
+ IVM7  iii7  ii7  V7  I  ivø7, lydian  VII7  III7  VI7  II7, lydian  ii7  V7
+Check if it has secondary dominants:
+ IVM7  iii7  ii7  V7  I  ♯ivø7  VII7 (V7/III)  III7 (V7/VI)  VI7 (V7/II)  II7  ii7  V7
+Section: C
+[['Abmaj7', 'Gm7'], ['Fm7', 'Gm7'], ['Abmaj7', 'C7b9'], ['F7'], ['Fm7'], ['Bb7sus'], ['Eb6'], ['Fm7', 'Bb7']]
+Roman Numerals:
+ IVM7  iii7  ii7  iii7  IVM7  VI7  II7  ii7  V  I  ii7  V7
+Is it Diatonic?
+ IVM7  iii7  ii7  iii7  IVM7  VI7, !D  II7, !D  ii7  V, !D  I  ii7  V7
+Is it Borrowed?
+ IVM7  iii7  ii7  iii7  IVM7  VI7  II7, lydian  ii7  V  I  ii7  V7
+Check if it has secondary dominants:
+ IVM7  iii7  ii7  iii7  IVM7  VI7 (V7/II)  II7  ii7  V  I  ii7  V7
