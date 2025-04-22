@@ -3,7 +3,7 @@ import re
 from nicegui import ui, html
 import uvicorn
 
-PROCESSED_FOLDER_PATH = "processed_results_THIS/"  # Folder containing multiple processed files
+PROCESSED_FOLDER_PATH = "processed_results_THIS/" # Folder containing multiple processed files
 
 scale_dialog = ui.dialog().props("persistent")  # keep it open until closed manually
 with scale_dialog:
