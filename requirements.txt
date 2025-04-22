@@ -1,0 +1,3 @@
+requirements.txt
+nicegui
+uvicorn
