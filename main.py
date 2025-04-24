@@ -528,12 +528,12 @@ selected_file = ui.select(
     on_change=lambda e: display_selected_file(e.value)
 ).classes('w-full')
 
-# ui.run()
+ui.run(host = "0.0.0.0", port = 8080)
 
 # # ✅ Expose app so Uvicorn can run it:
-# app = ui.get_app()
+# app = ui.()
 
 # if __name__ == "__main__":
 #     uvicorn.run("main:app", host="0.0.0.0", port=8000)
 
-ui.run(reload=False, port=8080)
+# ui.run(reload=False, port=8080)
