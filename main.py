@@ -1,6 +1,6 @@
 import os
 import re
-from nicegui import ui, html
+from nicegui import APIRouter, app, ui, html
 import uvicorn
 
 PROCESSED_FOLDER_PATH = "processed_results_THIS/" # Folder containing multiple processed files
@@ -504,6 +504,7 @@ def display_selected_file(file_name):
 
 def update_ui_with_new_data(main_dict):
     """Updates the UI with new data from the selected file."""
+    content_area = ui.column()
     content_area.clear()
     with content_area:
         with ui.tabs().classes('w-full') as tabs:
@@ -517,23 +518,25 @@ def update_ui_with_new_data(main_dict):
             with ui.tab_panel(two):
                 display_analysis(main_dict)  
 
-content_area = ui.column()
+router = APIRouter(prefix='/app')
 
-ui.label("Jazz Analysis Viewer").classes('text-2xl font-bold')
 
-# Dropdown for file selection
-selected_file = ui.select(
-    options=get_processed_files(),
-    with_input=True,
-    on_change=lambda e: display_selected_file(e.value)
-).classes('w-full')
+@router.page('/')
+def page():
+    ui.label("Jazz Analysis Viewer").classes('text-2xl font-bold')
+
+
+    # Dropdown for file selection
+    selected_file = ui.select(
+        options=get_processed_files(),
+        with_input=True,
+        on_change=lambda e: display_selected_file(e.value)
+    ).classes('w-full')
+
+
+ui.label("Launch App Here")
+ui.link("Launch", "/app/")
+
+app.include_router(router)
 
 ui.run(host = "0.0.0.0", port = 8080)
-
-# # ✅ Expose app so Uvicorn can run it:
-# app = ui.()
-
-# if __name__ == "__main__":
-#     uvicorn.run("main:app", host="0.0.0.0", port=8000)
-
-# ui.run(reload=False, port=8080)
