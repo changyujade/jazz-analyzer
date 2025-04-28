@@ -504,7 +504,7 @@ def display_selected_file(file_name):
 
 def update_ui_with_new_data(main_dict):
     """Updates the UI with new data from the selected file."""
-    content_area = ui.column()
+
     content_area.clear()
     with content_area:
         with ui.tabs().classes('w-full') as tabs:
@@ -517,6 +517,7 @@ def update_ui_with_new_data(main_dict):
 
             with ui.tab_panel(two):
                 display_analysis(main_dict)  
+
 
 router = APIRouter(prefix='/app')
 
@@ -533,10 +534,14 @@ def page():
         on_change=lambda e: display_selected_file(e.value)
     ).classes('w-full')
 
+    global content_area
+    content_area = ui.column()
 
-ui.label("Launch App Here")
-ui.link("Launch", "/app/")
+
+ui.label("Welcome to Jazz Analyser")
+ui.link("Click here to Launch", "/app/")
 
 app.include_router(router)
+
 
 ui.run(host = "0.0.0.0", port = 8080)
